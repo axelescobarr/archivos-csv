@@ -1,19 +1,4 @@
-EspecieId,EspecieNombre,descripcion
-1,CANINO,sin descripcion
-2,FELINO,sin descripcion
-4,OVINO,sin descripcion
-5,TORTUGA,sin descripcion
-6,ERIZO,sin descripcion
-7,ER,sin descripcion
-8,CUI,sin descripcion
-9,CONEJO CABEZA DE LEON,sin descripcion
-10,LAGOMORFO,sin descripcion
-11,PSITACIDO,sin descripcion
-12,AVE,sin descripcion
-13,AVE,sin descripcion
-14,AVE,sin descripcion
-15,HURON,sin descripcion
-16,HAMSTER,sin descripcion
-17,ROEDOR,sin descripcion
-18,MARSUPIAL,sin descripcion
-19,REPTIL,sin descripcion
+id,nombre,descripcion
+1,CANINO,Sin descripcion
+2,FELINO,Sin descripcion
+3,EQUINO,Sin descripcion

@@ -1,106 +1,104 @@
-ColorId,ColorNombre,descripcion;;;;;;;;
-1,MARRON, sin descripcion;;;;;;;;
-2,NEGRO, sin descripcion;;;;;;;;
-3,GRIS, sin descripcion;;;;;;;;
-4,BLANCO CON MANCHAS NEGRAS, sin descripcion;;;;;;;;
-5,MANTO NEGRO, sin descripcion;;;;;;;;
-6,ATIGRADO, sin descripcion;;;;;;;;
-7,BLANCO CON MANCHAS MARRONES, sin descripcion;;;;;;;;
-8,BLANCO, sin descripcion;;;;;;;;
-9,DORADO, sin descripcion;;;;;;;;
-10,BEIGE, sin descripcion;;;;;;;;
-11,CEBRITA, sin descripcion;;;;;;;;
-12,GRIS/BLANCO, sin descripcion;;;;;;;;
-13,MARRON/NEGRO, sin descripcion;;;;;;;;
-14,AMARILLO, sin descripcion;;;;;;;;
-15,BARCINO, sin descripcion;;;;;;;;
-16,ATIGRADO Y BLANCO, sin descripcion;;;;;;;;
-17,BAYO, sin descripcion;;;;;;;;
-18,MANTO CLARO, sin descripcion;;;;;;;;
-19,BLUE POINT, sin descripcion;;;;;;;;
-20,SEAL POINT, sin descripcion;;;;;;;;
-21,CHAMPAGNE, sin descripcion;;;;;;;;
-22,TRICOLOR, sin descripcion;;;;;;;;
-23,CHOCOLATE, sin descripcion;;;;;;;;
-24,NEGRO Y BLANCO, sin descripcion;;;;;;;;
-25,PELIROJO, sin descripcion;;;;;;;;
-26,APRICOT, sin descripcion;;;;;;;;
-27,SAL Y PIMIENTA, sin descripcion;;;;;;;;
-28,BLANCO Y NEGRO, sin descripcion;;;;;;;;
-29,NEGRO Y FUEGO, sin descripcion;;;;;;;;
-30,MARRON Y BCO, sin descripcion;;;;;;;;
-31,AMARILLA, sin descripcion;;;;;;;;
-32,BLANCO Y GRIS, sin descripcion;;;;;;;;
-33,NEGRA, sin descripcion;;;;;;;;
-34,AMARILLO Y BCO, sin descripcion;;;;;;;;
-35,BARCINO Y BLANCO, sin descripcion;;;;;;;;
-36,MARRON Y B, sin descripcion;;;;;;;;
-37,NEG, sin descripcion;;;;;;;;
-38,BLANCO Y MARRON, sin descripcion;;;;;;;;
-39,MARRON Y NEGRO, sin descripcion;;;;;;;;
-40,MARRON Y BLANCO, sin descripcion;;;;;;;;
-41,BLANCO Y AMARILLO, sin descripcion;;;;;;;;
-42,GRIS Y BCO, sin descripcion;;;;;;;;
-43,BLANCO MARRON Y NGO, sin descripcion;;;;;;;;
-44,NEGRO Y MARRON, sin descripcion;;;;;;;;
-45,BARCINA, sin descripcion;;;;;;;;
-46,AMARILLO Y NEGRO, sin descripcion;;;;;;;;
-47,GRIS Y BLANCO, sin descripcion;;;;;;;;
-48,BCO Y GRIS, sin descripcion;;;;;;;;
-49,NEGRO Y GRIS, sin descripcion;;;;;;;;
-50,NARANJA, sin descripcion;;;;;;;;
-51,GRIS ATIGRADO, sin descripcion;;;;;;;;
-52,GRIS Y ATIGRADO, sin descripcion;;;;;;;;
-53,NEGRO Y BCO, sin descripcion;;;;;;;;
-54,ATIGRADO AMARILLO, sin descripcion;;;;;;;;
-55,BAYO Y BLANCO, sin descripcion;;;;;;;;
-56,NEGRO Y B, sin descripcion;;;;;;;;
-57,ARLEQUIN, sin descripcion;;;;;;;;
-58,MARRON CLARO, sin descripcion;;;;;;;;
-59,MARR, sin descripcion;;;;;;;;
-60,PLATEADO, sin descripcion;;;;;;;;
-61,NEGRO Y BEIGE, sin descripcion;;;;;;;;
-62,BLANCO Y BEIGE, sin descripcion;;;;;;;;
-63,VERDE, sin descripcion;;;;;;;;
-64,CAREY, sin descripcion;;;;;;;;
-65,AMARLLO, sin descripcion;;;;;;;;
-66,NEGRO Y AMARILLO, sin descripcion;;;;;;;;
-67,NEGRO Y BL, sin descripcion;;;;;;;;
-68,GRIS Y B, sin descripcion;;;;;;;;
-69,GRIS Y NEGRO, sin descripcion;;;;;;;;
-70,BLANCO PIRATA, sin descripcion;;;;;;;;
-71,CHOCOLATE Y BLANCO, sin descripcion;;;;;;;;
-72,DORADO Y BLANCO, sin descripcion;;;;;;;;
-73,BEIGE Y NEGRO, sin descripcion;;;;;;;;
-74,MARRON OSCURO, sin descripcion;;;;;;;;
-75,CHOCOLATE POINT, sin descripcion;;;;;;;;
-76,TE CON LECHE, sin descripcion;;;;;;;;
-77,RUANO DORADO, sin descripcion;;;;;;;;
-78,MANTO MARRON, sin descripcion;;;;;;;;
-79,VERDE Y NARANJA, sin descripcion;;;;;;;;
-80,RED POINT, sin descripcion;;;;;;;;
-81,CAREY POINT, sin descripcion;;;;;;;;
-82,RUANO NEGRO, sin descripcion;;;;;;;;
-83,TABY POINT, sin descripcion;;;;;;;;
-84,BARCINO GRIS, sin descripcion;;;;;;;;
-85,CAREY GRIS, sin descripcion;;;;;;;;
-86,SMOKE, sin descripcion;;;;;;;;
-87,FAWN POINT, sin descripcion;;;;;;;;
-88,BARCINO MARMOLADO, sin descripcion;;;;;;;;
-89,BARCINO GRIS Y BLANCO, sin descripcion;;;;;;;;
-90,COLORADA, sin descripcion;;;;;;;;
-91,BLANCO Y BARCINO, sin descripcion;;;;;;;;
-92,BEIGE Y BLANCO, sin descripcion;;;;;;;;
-93,BLANCO Y ATIGRADO, sin descripcion;;;;;;;;
-94,BATARASA, sin descripcion;;;;;;;;
-95,CRUZA BOXER, sin descripcion;;;;;;;;
-96, AZUL, sin descripcion;;;;;;;;
-97,CELESTE, sin descripcion;;;;;;;;
-98,BARCINO CAREY, sin descripcion;;;;;;;;
-99,ALBINO, sin descripcion;;;;;;;;
-100,NEGRO Y ATIGRADO, sin descripcion;;;;;;;;
-101,AGUTI, sin descripcion;;;;;;;;
-102,AMARILLO BARCINO MARMOLADO, sin descripcion;;;;;;;;
-103,CRUZA SCHNAUZER, sin descripcion;;;;;;;;
-104,AZUL Y BLANCO, sin descripcion;;;;;;;;
-105,GRIS Y BEIGE, sin descripcion;;;;;;;;
+id,nombre,descripcion
+1,Sin color,Sin descripcion
+2,MARRON,Sin descripcion
+3,NEGRO,Sin descripcion
+4,GRIS,Sin descripcion
+5,BLANCO CON MANCHAS NEGRAS,Sin descripcion
+6,MANTO NEGRO,Sin descripcion
+7,ATIGRADO,Sin descripcion
+8,BLANCO CON MANCHAS MARRONES,Sin descripcion
+9,BLANCO,Sin descripcion
+10,DORADO,Sin descripcion
+11,BEIGE,Sin descripcion
+12,CEBRITA,Sin descripcion
+13,GRIS/BLANCO,Sin descripcion
+14,MARRON/NEGRO,Sin descripcion
+15,AMARILLO,Sin descripcion
+16,BARCINO,Sin descripcion
+17,ATIGRADO Y BLANCO,Sin descripcion
+18,BAYO,Sin descripcion
+19,MANTO CLARO,Sin descripcion
+20,BLUE POINT,Sin descripcion
+21,SEAL POINT,Sin descripcion
+22,CHAMPAGNE,Sin descripcion
+23,TRICOLOR,Sin descripcion
+24,CHOCOLATE,Sin descripcion
+25,NEGRO Y BLANCO,Sin descripcion
+26,PELIROJO,Sin descripcion
+27,APRICOT,Sin descripcion
+28,SAL Y PIMIENTA,Sin descripcion
+29,BLANCO Y NEGRO,Sin descripcion
+30,NEGRO Y FUEGO,Sin descripcion
+31,MARRON Y BCO,Sin descripcion
+32,AMARILLA,Sin descripcion
+33,BLANCO Y GRIS,Sin descripcion
+34,NEGRA,Sin descripcion
+35,AMARILLO Y BCO,Sin descripcion
+36,BARCINO Y BLANCO,Sin descripcion
+37,MARRON Y B,Sin descripcion
+38,NEG,Sin descripcion
+39,BLANCO Y MARRON,Sin descripcion
+40,MARRON Y NEGRO,Sin descripcion
+41,MARRON Y BLANCO,Sin descripcion
+42,BLANCO Y AMARILLO,Sin descripcion
+43,GRIS Y BCO,Sin descripcion
+44,BLANCO MARRON Y NGO,Sin descripcion
+45,NEGRO Y MARRON,Sin descripcion
+46,BARCINA,Sin descripcion
+47,AMARILLO Y NEGRO,Sin descripcion
+48,GRIS Y BLANCO,Sin descripcion
+49,BCO Y GRIS,Sin descripcion
+50,NEGRO Y GRIS,Sin descripcion
+51,NARANJA,Sin descripcion
+52,GRIS ATIGRADO,Sin descripcion
+53,GRIS Y ATIGRADO,Sin descripcion
+54,NEGRO Y BCO,Sin descripcion
+55,ATIGRADO AMARILLO,Sin descripcion
+56,BAYO Y BLANCO,Sin descripcion
+57,NEGRO Y B,Sin descripcion
+58,ARLEQUIN,Sin descripcion
+59,MARRON CLARO,Sin descripcion
+60,MARR,Sin descripcion
+61,PLATEADO,Sin descripcion
+62,NEGRO Y AMARILLO,Sin descripcion
+63,NEGRO Y BL,Sin descripcion
+64,GRIS Y B,Sin descripcion
+65,GRIS Y NEGRO,Sin descripcion
+66,BLANCO PIRATA,Sin descripcion
+67,CHOCOLATE Y BLANCO,Sin descripcion
+68,DORADO Y BLANCO,Sin descripcion
+69,BEIGE Y NEGRO,Sin descripcion
+70,MARRON OSCURO,Sin descripcion
+71,CHOCOLATE POINT,Sin descripcion
+72,TE CON LECHE,Sin descripcion
+73,RUANO DORADO,Sin descripcion
+74,MANTO MARRON,Sin descripcion
+75,VERDE Y NARANJA,Sin descripcion
+76,RED POINT,Sin descripcion
+77,CAREY POINT,Sin descripcion
+78,RUANO NEGRO,Sin descripcion
+79,TABY POINT,Sin descripcion
+80,BARCINO GRIS,Sin descripcion
+81,CAREY GRIS,Sin descripcion
+82,SMOKE,Sin descripcion
+83,FAWN POINT,Sin descripcion
+84,BARCINO MARMOLADO,Sin descripcion
+85,BARCINO GRIS Y BLANCO,Sin descripcion
+86,COLORADA,Sin descripcion
+87,BLANCO Y BARCINO,Sin descripcion
+88,BEIGE Y BLANCO,Sin descripcion
+89,BLANCO Y ATIGRADO,Sin descripcion
+90,BATARASA,Sin descripcion
+91,CRUZA BOXER,Sin descripcion
+92,AZUL,Sin descripcion
+93,CELESTE,Sin descripcion
+94,BARCINO CAREY,Sin descripcion
+95,ALBINO,Sin descripcion
+96,NEGRO Y ATIGRADO,Sin descripcion
+97,AGUTI,Sin descripcion
+98,AMARILLO BARCINO MARMOLADO,Sin descripcion
+99,CRUZA SCHNAUZER,Sin descripcion
+100,AZUL Y BLANCO,Sin descripcion
+101,GRIS Y BEIGE,Sin descripcion
+102,AZUL Y VERDE,sin descripcion
+103,ARLEQUIN Y BLANCO,sin descripcion
