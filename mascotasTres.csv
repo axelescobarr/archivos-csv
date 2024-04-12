@@ -2934,8 +2934,8 @@ idIncremental,name,sexo,birthdate,deceso,observaciones,nro_chip,socio,enable,cli
 3323,LOLA,Sin especificar,2008-01-01T12:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,2311,1,31,1
 3324,Toto,Sin especificar,2017-01-15T12:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,2312,1,10,1
 3325,Bioy,Sin especificar,2016-05-01T12:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,2313,1,31,1
-3326,garri,Sin especificar,2017-04-15T12:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,2314,1,31,1
-3327,SOROA“,Sin especificar,2022-01-15T12:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,2315,1,28,1
+3326,Garri,Sin especificar,2017-04-15T12:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,2314,1,31,1
+3327,SOROA,Sin especificar,2022-01-15T12:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,2315,1,28,1
 3328,Enrique,Sin especificar,2016-07-20T12:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,2316,1,39,1
 3329,Ringo,Sin especificar,2020-02-21T12:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,2317,1,45,1
 3330,Fisgon,Sin especificar,2020-04-15T12:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,2318,1,136,2
