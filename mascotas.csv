@@ -1,4 +1,4 @@
-idIncremental,name,sexo,birthdate,deceso,observaciones,nro_chip,socio,enable,clienteId,ColorId,razaId,EspecieId
+idIncremental,name,sexo,birthdate,deceso,observaciones,nro_chip,socio,enable,clienteId,ColorId,razaId,EspecieID
 1,COLO,Sin especificar,2002-10-13T00:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,1,1,136,2
 2,CUBA,Sin especificar,2018-05-05T00:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,7,1,31,1
 3,CHANO,Sin especificar,2018-01-21T00:00:00.000Z,1990-01-01,Sin observaciones,0000000000,FALSE,TRUE,8,1,30,1
