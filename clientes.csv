@@ -1,7 +1,7 @@
 id,fullname,direccion,cellphone,cellphone,nro_documento,id_tributario,creado,afiliado,email,usuario,password,tipoCliente,direccion,enable,LocalidadId,membresiumId,socio,fechaDesafiliacion,fechaNacimiento,Sin nombre,
 1,ADOLFO TASSANO,Av Joaquin de Viana esq Florida,099815111,099815111,00000000,0,2022-07-20,2022-07-20,adolfotassano@gmail.com,Sin usuario,Sin password,Consumidor final,Av Joaquin de Viana esq Florida,TRUE,1,1,FALSE,2022-07-20,2022-07-20
 2,MICAELA MOREIRA,Sin direccion,098858948,098858948,00000000,0,2022-07-20,2022-07-20,mikaelamb95@hotmail.com,Sin usuario,Sin password,Consumidor final,Sin direccion,TRUE,1,1,FALSE,2022-07-20,2022-07-20
-3,MARIA EUGENIA TASSANO,Ecuador Edif Prineel 102,000000000,000000000,00000000,0,2022-07-20,2022-07-20,Sin email,Sin usuario,Sin password,Consumidor final,Ecuador Edif Prineel 102,TRUE,1,1,FALSE,2022-07-20,2022-07-20
+3,MARIA EUGENIA TASSAANO,Ecuador Edif Prineel 102,000000000,000000000,00000000,0,2022-07-20,2022-07-20,Sin email,Sin usuario,Sin password,Consumidor final,Ecuador Edif Prineel 102,TRUE,1,1,FALSE,2022-07-20,2022-07-20
 4,GONZALO FERNANDEZ,Sin direccion,099929059,099929059,00000000,0,2022-07-20,2022-07-20,gofernandez92@gmail.com,Sin usuario,Sin password,Consumidor final,Sin direccion,TRUE,2,1,FALSE,2022-07-20,2022-07-20
 5,GASTON PIOLI,AV ROOSEVELT ROOSEVELT CENTER 1404,42480998,42480998,00000000,0,2022-07-20,2022-07-20,gaspioli@gmail.com,Sin usuario,Sin password,Consumidor final,AV ROOSEVELT ROOSEVELT CENTER 1404,TRUE,2,1,FALSE,2022-07-20,2022-07-20
 6,ADRIANA BARCIA,LA PINTA,000000000,000000000,00000000,0,2022-07-20,2022-07-20,Sin email,Sin usuario,Sin password,Consumidor final,LA PINTA,TRUE,2,1,FALSE,2022-07-20,2022-07-20
