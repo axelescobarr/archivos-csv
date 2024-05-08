@@ -1,142 +1,416 @@
 id,nombre,descripcion,especieId
-1,Dogo Argentino,Sin descripcion,1
-2,Pit bull terrier,Sin descripcion,1
-3,Beagle,Sin descripcion,1
-4,Bichon frise,Sin descripcion,1
-5,Yorkshire,Sin descripcion,1
-6,Boxer,Sin descripcion,1
-7,Fila Bresileiro,Sin descripcion,1
-8,Bulldog,Sin descripcion,1
-9,Chihuahua,Sin descripcion,1
-10,Golden Retriever,Sin descripcion,1
-11,Collie,Sin descripcion,1
-12,Maltes,Sin descripcion,1
-13,Dogo de Burdeos,Sin descripcion,1
-14,Cocker,Sin descripcion,1
-15,Carlino /pugg,Sin descripcion,1
-16,Fox Terrier,Sin descripcion,1
-17,Labrador retriever,Sin descripcion,1
-18,Husky Siberiano,Sin descripcion,1
-19,Jack Russell,Sin descripcion,1
-20,Ovejero Aleman,Sin descripcion,1
-21,Pequines,Sin descripcion,1
-22,Pointer,Sin descripcion,1
-23,Rottweiler,Sin descripcion,1
-24,Schnauzer,Sin descripcion,1
-25,Shar Pei,Sin descripcion,1
-26,West Highland,Sin descripcion,1
-27,Mestizo,Sin descripcion,1
-28,Caniche,Sin descripcion,1
-29,Shih Tzu,Sin descripcion,1
-30,AUSTALIAN CATTLE DOG,Sin descripcion,1
-31,CRUZA,Sin descripcion,1
-32,PINCHER,Sin descripcion,1
-33,SAN BERNARDO,Sin descripcion,1
-34,PUG,Sin descripcion,1
-35,WEIMARANE,Sin descripcion,1
-36,WEIMARANER,Sin descripcion,1
-37,ENTLEBUCHER,Sin descripcion,1
-38,MASTIN INGLES,Sin descripcion,1
-39,BULL DOG FRANCES,Sin descripcion,1
-40,WEST HAIGLAND ,Sin descripcion,1
-41,BORDER COLLIE,Sin descripcion,1
-42,BRUSSEL GRIFFON,Sin descripcion,1
-43,CIMARRON,Sin descripcion,1
-44,DOBERMAN,Sin descripcion,1
-45,BOYERO DE BERNA,Sin descripcion,1
-46,BULL DOG INGLES,Sin descripcion,1
-47,DASHUND,Sin descripcion,1
-48,CHOW CHOEW,Sin descripcion,1
-49,BULL TERRIER,Sin descripcion,1
-50,PASTOR AUSTRALIANO,Sin descripcion,1
-51,SCOTISH,Sin descripcion,1
-52,BRACO,Sin descripcion,1
-53,SALCHICHA,Sin descripcion,1
-54,DALMATA,Sin descripcion,1
-55,MASTIN,Sin descripcion,1
-56,MAREMMANO,Sin descripcion,1
-57,SPITZ DE POMERAÃ‘A,Sin descripcion,1
-58,RODHESIAN,Sin descripcion,1
-59,AKITA,Sin descripcion,1
-60,BASSET HOUND,Sin descripcion,1
-61,CANE CORSO,Sin descripcion,1
-62,SHARPEI,Sin descripcion,1
-63,WHIPPET,Sin descripcion,1
-64,BRETON ESPAÃ‘OL,Sin descripcion,1
-65,GOLDEN,Sin descripcion,1
-66,PASTOR BERNES,Sin descripcion,1
-67,SAMOAYEDO,Sin descripcion,1
-68,SETER IRLANDES,Sin descripcion,1
-69,BLODHOUND,Sin descripcion,1
-70,COTTON DE TOULIER,Sin descripcion,1
-71,POMERANIA,Sin descripcion,1
-72,MALINOIS,Sin descripcion,1
-73,BASENJI,Sin descripcion,1
-74,TERRANOVA,Sin descripcion,1
-75,CABALIER KING CHARLES,Sin descripcion,1
-76,Boston terriet,Sin descripcion,1
-77,Boston Terrier,Sin descripcion,1
-78,Siberiano,Sin descripcion,1
-79,Chow Chow,Sin descripcion,1
-80,Crestado chino,Sin descripcion,1
-81,POODLE,Sin descripcion,1
-82,GREYHOUND,Sin descripcion,1
-83,Great Dane,Sin descripcion,1
-84,AMERICAN BULI,Sin descripcion,1
-85,GALGO,Sin descripcion,1
-86,POMERAÃ‘A,Sin descripcion,1
-87,CANICHE TOY ,Sin descripcion,1
-88,SETER INGLES,Sin descripcion,1
-89,BULLIT,Sin descripcion,1
-90,PEQUEÃ‘O GALGO ITALIANO,Sin descripcion,1
-91,Spaniel JaponÃ©s,Sin descripcion,1
-92,Labradoogle,Sin descripcion,1
-93,PASTOR MAREMMANO,Sin descripcion,1
-94,KING CHARLES,Sin descripcion,1
-95,Australian Shepard,Sin descripcion,1
-96,Labradoodle,Sin descripcion,1
-97,Lebrel italiano,Sin descripcion,1
-98,PASTOR SUIZO,Sin descripcion,1
-99,Bull Mastiff,Sin descripcion,1
-100,Pomsky ,Sin descripcion,1
-101,AUTRALIANLABRADOODLE,Sin descripcion,1
-102,BICHON,Sin descripcion,1
-103,PASTOR BELGA,Sin descripcion,1
-104,statforshire,Sin descripcion,1
-105,SHETLAN,Sin descripcion,1
-106,Shiba inu,Sin descripcion,1
-107,Corgi,Sin descripcion,1
-108,Hovawart,Sin descripcion,1
-109,batard,Sin descripcion,1
-110,barbone,Sin descripcion,1
-111,BORDER GAUCHO,Sin descripcion,1
-112,PIT BULL (CRUZA),Sin descripcion,1
-113,VIZLA,Sin descripcion,1
-114,VIZSLA,Sin descripcion,1
-115,Galgo Afgano,Sin descripcion,1
-116,PASTOR INGLES ,Sin descripcion,1
-117,Parson Russel,Sin descripcion,1
-118,English Spaniel,Sin descripcion,1
-119,Siames,Sin descripcion,2
-120,ExÃ³tico,Sin descripcion,2
-121,Sagrado de Birmania,Sin descripcion,2
-122,Torkines,Sin descripcion,2
-123,ComÃºn europeo,Sin descripcion,2
-124,Persa,Sin descripcion,2
-125,MAIN COON,Sin descripcion,2
-126,British Shorthair,Sin descripcion,2
-127,BENGALI,Sin descripcion,2
-130,SELKIRK REX,Sin descripcion,2
-131,RAGDOLL,Sin descripcion,2
-132,Abissino,Sin descripcion,2
-133,Abisinio,Sin descripcion,2
-134,Angora blanco,Sin descripcion,2
-135,Sin especie,Sin descripcion,3
-136,Comun europeo,Sin descripcion,2
-137,BRETON ESPANOL,Sin descripcion,1
-146,ExOtico,Sin descripcion,2
-235,SPITZ DE POMERANA,Sin descripcion,1
-382,PEQUENO GALGO ITALIANO,Sin descripcion,1
-390,Spaniel JaponÃƒÂ©s,Sin descripcion,1
-463,POMERANA,Sin descripcion,1
-597,JUCK RUSSELL,Sin descripcion,1
+1,ABISINIO,Sin descripcion,2
+2,AFFEN-PINSCHER,Sin descripcion,1
+3,AFGANO,Sin descripcion,1
+4,AINU HOKKAIDO KEN,Sin descripcion,1
+5,AIREDALE TERRIER,Sin descripcion,1
+6,AKHAL - TEKE,Sin descripcion,3
+7,AKITA JAPONES,Sin descripcion,1
+8,ALASKAN MALAMUTE,Sin descripcion,1
+9,ALBINO,Sin descripcion,3
+10,ALTER REAL,Sin descripcion,3
+11,KOMONDOR,Sin descripcion,1
+12,KORAT,Sin descripcion,2
+13,KUVASZ,Sin descripcion,1
+14,AMERICAN CURL,Sin descripcion,2
+15,ANDALUZ,Sin descripcion,3
+16,ANGORA,Sin descripcion,2
+17,APPALOOZA,Sin descripcion,3
+18,ARDENES,Sin descripcion,3
+19,ASTURCON,Sin descripcion,3
+20,AVELINES,Sin descripcion,3
+21,AZTECA,Sin descripcion,3
+22,BALINES,Sin descripcion,2
+23,LAKELAND TERRIER,Sin descripcion,1
+24,BASENJI,Sin descripcion,1
+25,BASSET FAUVE DE BRETANA,Sin descripcion,1
+26,LANCASHIRE (HEELER),Sin descripcion,1
+27,BASSET GRIFON VENDEEN PETIT,Sin descripcion,1
+28,LAPPHUND FINNISH,Sin descripcion,1
+29,BASSET HOUND,Sin descripcion,1
+30,LEONBERGER,Sin descripcion,1
+31,BAVARO,Sin descripcion,3
+32,LHASA APSO,Sin descripcion,1
+33,BEAGLE,Sin descripcion,1
+34,LIPIZZANO,Sin descripcion,3
+35,LOBERO IRLANDES,Sin descripcion,1
+36,LOWCHEN,Sin descripcion,1
+37,LUSITANO,Sin descripcion,3
+38,MALLORQUIN,Sin descripcion,3
+39,MALTES,Sin descripcion,1
+40,MANCHESTER TERRIER,Sin descripcion,1
+41,MANX,Sin descripcion,2
+42,MASTIN DE PIRINEOS,Sin descripcion,1
+43,MASTIN ESPANOL,Sin descripcion,1
+44,MASTIN INGLES,Sin descripcion,1
+45,MASTIN NAPOLITANO,Sin descripcion,1
+46,MASTIN TIBETANO,Sin descripcion,1
+47,MENORQUINA,Sin descripcion,3
+48,MEXICANO DOMESTICO,Sin descripcion,2
+49,MONGOL,Sin descripcion,3
+50,MORGAN HORSE,Sin descripcion,3
+51,BEAUCERON,Sin descripcion,1
+52,BEDLINGTON TERRIER,Sin descripcion,1
+53,BERBERISCO,Sin descripcion,3
+54,BEREBER,Sin descripcion,3
+55,BERGAMASCO,Sin descripcion,1
+56,BERNES DE LA MONTANA,Sin descripcion,1
+57,BICHON FRISE,Sin descripcion,1
+58,BIRMANO,Sin descripcion,2
+59,BLOODHOUND,Sin descripcion,1
+60,BOLONES,Sin descripcion,3
+61,BOMBAY,Sin descripcion,2
+62,BORDER COLLIE,Sin descripcion,1
+63,BORDER TERRIER,Sin descripcion,1
+64,MUSTANG,Sin descripcion,3
+65,BORZOI,Sin descripcion,1
+66,NONIUS,Sin descripcion,3
+67,NORFOLK TERRIER,Sin descripcion,1
+68,BOSTON TERRIER,Sin descripcion,1
+69,NORIKER,Sin descripcion,3
+70,BOUVIER DE LAS ARDENAS,Sin descripcion,1
+71,NORWICH TERRIER,Sin descripcion,1
+72,BOUVIER DES FLANDRES,Sin descripcion,1
+73,OCICAT,Sin descripcion,2
+74,BOXER,Sin descripcion,1
+75,OLNDENBURGO,Sin descripcion,3
+76,BRABANTE,Sin descripcion,3
+77,OTTERHOUND,Sin descripcion,1
+78,BRACO,Sin descripcion,1
+79,OVEJERO ALEMAN,Sin descripcion,1
+80,BRACO ALEMAN,Sin descripcion,1
+81,OVEJERO BELGA (GROENENDAEL),Sin descripcion,1
+82,BRACO BRAND,Sin descripcion,1
+83,OVEJERO BELGA (LAEKEN),Sin descripcion,1
+84,BRACO DE ARIEGE,Sin descripcion,1
+85,OVEJERO BELGA (MALINES),Sin descripcion,1
+86,BRACO DE AUVERNIA,Sin descripcion,1
+87,OVEJERO BELGA (TERVUEREN),Sin descripcion,1
+88,BRACO DE SAINT GERMAIN,Sin descripcion,1
+89,BRACO FRANCES,Sin descripcion,1
+90,PALOMINO,Sin descripcion,3
+91,BRACO ITALIANO,Sin descripcion,1
+92,BRETON,Sin descripcion,3
+93,PAPILLON,Sin descripcion,1
+94,BRIARD,Sin descripcion,1
+95,PASO DE TENNESEE,Sin descripcion,3
+96,BRUMBY,Sin descripcion,3
+97,PASO FINO,Sin descripcion,3
+98,BUDYONNY,Sin descripcion,3
+99,PASTOR ALEMAN,Sin descripcion,1
+100,BUHUND NORUEGO,Sin descripcion,1
+101,PASTOR BELGA (GROENENDAEL),Sin descripcion,1
+102,BULL MASTIFF,Sin descripcion,1
+103,PASTOR BELGA (LAEKEN),Sin descripcion,1
+104,BULL TERRIER,Sin descripcion,1
+105,PASTOR BELGA (MALINES),Sin descripcion,1
+106,PASTOR BELGA (TERVUEREN),Sin descripcion,1
+107,PASTOR DE MAREMMA,Sin descripcion,1
+108,PASTOR DE PICARDIA,Sin descripcion,1
+109,PASTOR DE SHETLAND,Sin descripcion,1
+110,BULL TERRIER (MINIATURA),Sin descripcion,1
+111,PEQUINES,Sin descripcion,1
+112,BULLDOG,Sin descripcion,1
+113,BULLDOG FRANCES,Sin descripcion,1
+114,BURMESE,Sin descripcion,2
+115,BUSCKSKIN,Sin descripcion,3
+116,PERCHERON FRANCES,Sin descripcion,3
+117,PERRO DE AGUAS PORTUGUES,Sin descripcion,1
+118,PERRO ESKIMAL,Sin descripcion,1
+119,CABALLO DE LAS MURGES,Sin descripcion,3
+120,PERSA,Sin descripcion,2
+121,CAIRN TERRIER,Sin descripcion,1
+122,PERUANO DE PASO,Sin descripcion,3
+123,CAMARGUES,Sin descripcion,3
+124,PINSCHER,Sin descripcion,1
+125,CANAAN-DOG,Sin descripcion,1
+126,CASPIO,Sin descripcion,3
+127,CHIHUAHUENO,Sin descripcion,1
+128,PINSCHER MINIATURA,Sin descripcion,1
+129,CHIHUAHUENO (PELO LARGO),Sin descripcion,1
+130,PINTO,Sin descripcion,3
+131,CHIN JAPONES,Sin descripcion,1
+132,POINTER,Sin descripcion,1
+133,CHOW CHOW,Sin descripcion,1
+134,POINTER ALEMAN (PELO CORTO),Sin descripcion,1
+135,CLEVELAND BAY,Sin descripcion,3
+136,POINTER ALEMAN (PELO DE ALAMBRE),Sin descripcion,1
+137,POINTER ALEMAN (PELO LARGO),Sin descripcion,1
+138,POINTER INGLES,Sin descripcion,1
+139,CLYDESDALE,Sin descripcion,3
+140,POMERANIA,Sin descripcion,1
+141,PONI AMERICANO,Sin descripcion,3
+142,PONI DE SILLA INGLES,Sin descripcion,3
+143,PONI GALES,Sin descripcion,3
+144,PONI PINTADO INGLES,Sin descripcion,3
+145,POODLE (ESTANDAR),Sin descripcion,1
+146,POODLE (MINIATURA),Sin descripcion,1
+147,POODLE (TOY),Sin descripcion,1
+148,PUG,Sin descripcion,1
+149,COB GALES,Sin descripcion,3
+150,PULI,Sin descripcion,1
+151,COBRADOR (DE LA BAHIA DE CHESAPEAKE),Sin descripcion,1
+152,PURA RAZA ESPANOLA,Sin descripcion,3
+153,PURA SANGRE ANGLO-ARABE,Sin descripcion,3
+154,COBRADOR (DORADO),Sin descripcion,1
+155,PURA SANGRE ARABE,Sin descripcion,3
+156,COBRADOR (LABRADOR),Sin descripcion,1
+157,COBRADOR (PELO LISO),Sin descripcion,1
+158,PURA SANGRE INGLES,Sin descripcion,3
+159,COBRADOR (PELO RIZADO),Sin descripcion,1
+160,REX,Sin descripcion,2
+161,COLLIE,Sin descripcion,1
+162,RHODESIAN RIDGEBACK,Sin descripcion,1
+163,ROTTWEILER,Sin descripcion,1
+164,COLLIE (PASTOR PELO CORTO),Sin descripcion,1
+165,RUSO,Sin descripcion,2
+166,COLLIE (ROUGH),Sin descripcion,1
+167,COLLIE (SMOOTH),Sin descripcion,1
+168,SALERNITANO,Sin descripcion,3
+169,COLLIE BARBUDO,Sin descripcion,1
+170,SALUKI,Sin descripcion,1
+171,COMTOIS,Sin descripcion,3
+172,SAMOYEDO,Sin descripcion,1
+173,CONNEMARA,Sin descripcion,3
+174,SAN BERNARDO,Sin descripcion,1
+175,COON,Sin descripcion,2
+176,SAN FRATELANO,Sin descripcion,3
+177,COONHOUND,Sin descripcion,1
+178,SCHIPPERKE,Sin descripcion,1
+179,SCHNAUZER ESTANDAR,Sin descripcion,1
+180,SCHNAUZER GIGANTE,Sin descripcion,1
+181,CRESTADO CHINO,Sin descripcion,1
+182,SCHNAUZER MINIATURA,Sin descripcion,1
+183,CRIOLLO,Sin descripcion,1
+184,SEALYHAM TERRIER,Sin descripcion,1
+185,CRIOLLO,Sin descripcion,3
+186,SETTER GORDON,Sin descripcion,1
+187,CRUZADO AMERICANO,Sin descripcion,3
+188,SETTER INGLES,Sin descripcion,1
+189,CRUZADO ARGENTINO,Sin descripcion,3
+190,SETTER IRLANDES,Sin descripcion,1
+191,CUARTO DE MILLA AMERICANO,Sin descripcion,3
+192,SHAGYA,Sin descripcion,3
+193,SHAR PEI,Sin descripcion,1
+194,CUARTO DE MILLA CANADIENSE,Sin descripcion,3
+195,SHIBA INU JAPONES,Sin descripcion,1
+196,DACHSHUND (MINIATURA PELO ALAMBRE),Sin descripcion,1
+197,SHIH TZU,Sin descripcion,1
+198,DACHSHUND (MINIATURA PELO CORTO),Sin descripcion,1
+199,SHIRE,Sin descripcion,3
+200,DACHSHUND (MINIATURA PELO LARGO),Sin descripcion,1
+201,SIAMES,Sin descripcion,2
+202,DACHSHUND (PELO CORTO),Sin descripcion,1
+203,SILKY TERRIER,Sin descripcion,1
+204,DACHSHUND (PELO DE ALAMBRE),Sin descripcion,1
+205,SILLA AMERICANO,Sin descripcion,3
+206,DACHSHUND (PELO LARGO),Sin descripcion,1
+207,SILLA FRANCES,Sin descripcion,3
+208,DALES,Sin descripcion,3
+209,SILLA ITALIANO,Sin descripcion,3
+210,DALMATA,Sin descripcion,1
+211,SKYE TERRIER,Sin descripcion,1
+212,DANDIE DINMONT TERRIER,Sin descripcion,1
+213,SLOUGHI,Sin descripcion,1
+214,DARTMOOR,Sin descripcion,3
+215,SOMALI,Sin descripcion,2
+216,DEERHOUND ESCOCES,Sin descripcion,1
+217,SORRAIA,Sin descripcion,3
+218,DOBERMAN,Sin descripcion,1
+219,SPANIEL (BRETON),Sin descripcion,1
+220,DOGO ARGENTINO,Sin descripcion,1
+221,SPANIEL (CLUMBER),Sin descripcion,1
+222,DOGO DE BURDEOS,Sin descripcion,1
+223,SPANIEL (COCKER INGLES),Sin descripcion,1
+224,DOLE,Sin descripcion,3
+225,SPANIEL (COCKER),Sin descripcion,1
+226,ELKHOUND NORUEGO,Sin descripcion,1
+227,SPANIEL (DE CAMPO),Sin descripcion,1
+228,ESTRELA MOUNTAIN DOG,Sin descripcion,1
+229,SPANIEL (IRLANDES DE AGUAS),Sin descripcion,1
+230,EUROPEO,Sin descripcion,2
+231,SPANIEL (KING CHARLES),Sin descripcion,1
+232,EXMOOR,Sin descripcion,3
+233,SPANIEL (SPRINGER INGLES),Sin descripcion,1
+234,SPANIEL (SUSSEX),Sin descripcion,1
+235,FALABELLA,Sin descripcion,3
+236,SPANIEL (TIBETANO),Sin descripcion,1
+237,FARAONHOUND,Sin descripcion,1
+238,SPANIEL (TOY INGLES),Sin descripcion,1
+239,FELL,Sin descripcion,3
+240,SPANIEL (WELSH SPRINGER),Sin descripcion,1
+241,FILA BRASILENO,Sin descripcion,1
+242,SPINONE ITALIANO,Sin descripcion,1
+243,FJORD,Sin descripcion,3
+244,SPITZ ALEMAN (KLEIN),Sin descripcion,1
+245,SPITZ ALEMAN (MITTEL),Sin descripcion,1
+246,FOX TERRIER (PELO DE ALAMBRE),Sin descripcion,1
+247,SPITZ FINES,Sin descripcion,1
+248,FOX TERRIER (PELO LISO),Sin descripcion,1
+249,SPITZ JAPONES,Sin descripcion,1
+250,FOX TROTTER MISOURI,Sin descripcion,3
+251,STAFFORDSHIRE BULL TERRIER,Sin descripcion,1
+252,FOXHOUND AMERICANO,Sin descripcion,1
+253,SUECO DEL NORTE,Sin descripcion,3
+254,FOXHOUND INGLES,Sin descripcion,1
+255,SUECO SANGRE CALIENTE,Sin descripcion,3
+256,FREDERIKSBORG,Sin descripcion,3
+257,FREIBERGER,Sin descripcion,3
+258,FRISON,Sin descripcion,3
+259,SUIZO SANGRE CALIENTE,Sin descripcion,3
+260,TARPAN,Sin descripcion,3
+261,TERRANOVA,Sin descripcion,1
+262,GALGO ITALIANO,Sin descripcion,1
+263,TERRIER AUSTRALIANO,Sin descripcion,1
+264,GANADERO AUSTRALIANO (HEELER),Sin descripcion,1
+265,GELDERLAND,Sin descripcion,3
+266,GIGANTE DE LOS PIRINEOS,Sin descripcion,1
+267,TERRIER ESCOCES,Sin descripcion,1
+268,GOTLAND,Sin descripcion,3
+269,TERRIER INGLES TOY,Sin descripcion,2
+270,TERRIER IRLANDES,Sin descripcion,1
+271,TERRIER TIBETANO,Sin descripcion,1
+272,TERRIER TRIGUENO (PELO SUAVE),Sin descripcion,1
+273,GRAN DANES,Sin descripcion,1
+274,TERSK,Sin descripcion,3
+275,GREYHOUND,Sin descripcion,1
+276,TIRO DANES,Sin descripcion,3
+277,GRIFON (PELO DURO),Sin descripcion,1
+278,TIRO DE SCHLESWIG,Sin descripcion,3
+279,GRIFON DE BRUSELAS,Sin descripcion,1
+280,TIRO HOLANDES,Sin descripcion,3
+281,GRONINGEN,Sin descripcion,3
+282,HABANA,Sin descripcion,2
+283,HABANERO,Sin descripcion,1
+284,TIRO IRLANDES,Sin descripcion,3
+285,HACKNEY,Sin descripcion,3
+286,TIRO PESADO DEL RIN,Sin descripcion,3
+287,TORIC,Sin descripcion,3
+288,TOSA JAPONES,Sin descripcion,1
+289,TRAKHNER,Sin descripcion,3
+290,HAFLINGER,Sin descripcion,3
+291,TROTON DE ORLOV,Sin descripcion,3
+292,HANNOVERIANO,Sin descripcion,3
+293,TROTON FRANCES,Sin descripcion,3
+294,HARRIER,Sin descripcion,1
+295,VALLHUND SUIZO,Sin descripcion,1
+296,HIMALAYA,Sin descripcion,2
+297,VIARKA,Sin descripcion,3
+298,HOLANDES SANGRE CALIENTE,Sin descripcion,3
+299,VIZSLA,Sin descripcion,1
+300,HOLSTEIN,Sin descripcion,3
+301,HOVAWART,Sin descripcion,1
+302,HUNGARO,Sin descripcion,3
+303,HUNTER INRLANDES,Sin descripcion,3
+304,VLADIMIR,Sin descripcion,3
+305,HUSKY SIBERIANO,Sin descripcion,1
+306,WALER,Sin descripcion,3
+307,IBIZAN HOUND,Sin descripcion,1
+308,WALER AUSTRALIANO,Sin descripcion,3
+309,JACK RUSSELL TERRIER,Sin descripcion,1
+310,WEIMARANER,Sin descripcion,1
+311,WELSH CORGI (CARDIGAN),Sin descripcion,1
+312,KABARDIN,Sin descripcion,3
+313,WELSH CORGI (PEMBROKE),Sin descripcion,1
+314,WELSH TERRIER,Sin descripcion,1
+315,WEST HIGHLAND WHITE TERRIER,Sin descripcion,1
+316,WESTFALIANO,Sin descripcion,3
+317,KARABAIR,Sin descripcion,3
+318,WHIPPET (LEBREL),Sin descripcion,1
+319,KARABAKH,Sin descripcion,3
+320,WIELKOPOLSKI,Sin descripcion,3
+321,KEESHOND,Sin descripcion,1
+322,XOLOITZCUINTLE,Sin descripcion,1
+323,KERRY BLUE TERRIER,Sin descripcion,1
+324,YORKSHIRE TERRIER,Sin descripcion,1
+325,KLADRUBER,Sin descripcion,3
+326,MESTIZO,Sin descripcion,16
+327,KNABSTRUP,Sin descripcion,3
+328,COCKER,Sin descripcion,1
+329,BRETON,Sin descripcion,1
+330,LABRADOR,Sin descripcion,1
+331,GOLDEN RETRIEVER,Sin descripcion,1
+332,CHIHUAHUA,Sin descripcion,1
+333,CANICHE,Sin descripcion,1
+334,CANICHE TOY,Sin descripcion,1
+335,COTTON,Sin descripcion,1
+336,BICHON HABANERO,Sin descripcion,1
+337,VIEJO PASTOR INGLES,Sin descripcion,1
+338,CIMARRON,Sin descripcion,1
+339,CRUZA PINCHER,Sin descripcion,16
+340,CRUZA LABRADOR,Sin descripcion,16
+341,CRUZA OVEJERO ALEMAN,Sin descripcion,16
+342,CRUZA ROTWEILER,Sin descripcion,16
+343,ARRIERO,Sin descripcion,16
+344,DOMESTICO PELO CORTO,Sin descripcion,2
+345,DOMESTICO PELO LARGO,Sin descripcion,2
+346,CRUZA DOGO,Sin descripcion,16
+347,CRUZA BARBILLA,Sin descripcion,16
+348,CRUZA OVEJERO ALEMAN,Sin descripcion,16
+349,CRUZA ARRIERO,Sin descripcion,16
+350,CRUZA CIMARRON,Sin descripcion,16
+351,CRUZA CANICHE,Sin descripcion,16
+352,CRUZA BOXER,Sin descripcion,1
+353,CRUZA POMERANIAN,Sin descripcion,1
+354,PEQUINES,Sin descripcion,1
+355,RASGOLL,Sin descripcion,2
+356,CIMARRON X DOGO,Sin descripcion,1
+357,FILA X GRAN DANES,Sin descripcion,16
+358,ARRIERO C GALGO,Sin descripcion,1
+359,CRIOLLO C GRAN DANES,Sin descripcion,1
+360,FILA C GRAN DANES,Sin descripcion,1
+361,CRUZA GRANDE,Sin descripcion,16
+362,ENANO OREJAS CHICAS,Sin descripcion,6
+363,CIRIO,Sin descripcion,7
+364,PANDA,Sin descripcion,7
+365,TELESCOPIO,Sin descripcion,11
+366,ABANICO,Sin descripcion,11
+367,BURBUJA,Sin descripcion,11
+368,CALIFORNIANO,Sin descripcion,6
+369,ENANO,Sin descripcion,6
+370,CRUZA CON RODESIAN,Sin descripcion,1
+371,SCOTISH,Sin descripcion,1
+372,CRUZA DALMATA,Sin descripcion,1
+373,C DALMATA,Sin descripcion,1
+374,CRUZA FOXTER,Sin descripcion,1
+375,BARBILLA,Sin descripcion,1
+376,BELGA C SIBERIANO,Sin descripcion,1
+377,OVEJERO C SIBERIANO,Sin descripcion,1
+378,TECKEL,Sin descripcion,1
+379,CANICHE C YORKSHIRE,Sin descripcion,1
+380,PASTOR INGLES,Sin descripcion,1
+381,OLD ENGLISH,Sin descripcion,1
+382,AUSTRALIAN CATTLE DOG,Sin descripcion,1
+383,CRUZA SIBERIANO,Sin descripcion,1
+384,WEST HIGHLAND WHITE,Sin descripcion,1
+385,CRUZA DOBERMAN,Sin descripcion,1
+386,CRUZA SHIH TZU,Sin descripcion,16
+387,PRESA CANARIO,Sin descripcion,1
+388,CRUZA PRESA CANARIO,Sin descripcion,1
+389,PITBULL,Sin descripcion,1
+390,BENGAL,Sin descripcion,2
+391,BRITANICO PELO CORTO,Sin descripcion,16
+392,CRUZA PITBULL,Sin descripcion,16
+393,OVEJERO NEGRO LINEA DE TRABAJO,Sin descripcion,16
+394,CRUZA COCKER,Sin descripcion,16
+395,CRUZA FILA X LABRADOR,Sin descripcion,1
+396,CRUZA COLLIE,Sin descripcion,1
+397,CRUZA C/CHOW CHOW,Sin descripcion,1
+398,KELPI,Sin descripcion,1
+399,CANE CORSO,Sin descripcion,1
+400,CRUZA DOGO- SCHNAUZER,Sin descripcion,1
+401,CRUZA WEIMARANER,Sin descripcion,16
+402,SAGRADO DE BIRMANIA,Sin descripcion,2
+403,CRUZA PEQUINES,Sin descripcion,1
+404,OVEJERO BELGA (MARINUA),Sin descripcion,1
+405,CRUZA MASTIN X FILA,Sin descripcion,16
+406,CRUZA GALGO,Sin descripcion,16
+407,PASTOR BLANCO SUIZO,Sin descripcion,16
+408,CRUZA YORKSHIRE,Sin descripcion,16
+409,CAVALIER KING CHARLES,Sin descripcion,16
+410,MAINE COON,Sin descripcion,2
+411,AMERICAN BULLY,Sin descripcion,16
+412,CORGI,Sin descripcion,16
+413,PASTOR AUSTRALIANO,Sin descripcion,1
+414,LABRADOODLE,Sin descripcion,1
+500,SIN RAZA,Sin descripcion,16

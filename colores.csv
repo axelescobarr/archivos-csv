@@ -1,5 +1,5 @@
-id,nombre,descripcionn
-1,Sin color,Sin descripcionn
+id,nombre,descripcion
+1,Sin color,Sin descripcion
 2,MARRON,Sin descripcion
 3,NEGRO,Sin descripcion
 4,GRIS,Sin descripcion
@@ -102,4 +102,4 @@ id,nombre,descripcionn
 101,GRIS Y BEIGE,Sin descripcion
 102,AZUL Y VERDE,sin descripcion
 103,ARLEQUIN Y BLANCO,sin descripcion
-104,Sin Color,Sin descripcioon
+104,Sin Color,Sin descripcion

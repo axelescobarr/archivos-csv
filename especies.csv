@@ -1,5 +1,17 @@
 id,nombre,descripcion
 1,CANINO,Sin descripcion
 2,FELINO,Sin descripcion
-3,Sin especie,Sin descripcion
-4,Borrar,Sin borrar
+3,EQUINO,Sin descripcion
+4,AVES,Sin descripcion
+5,REPTIL,Sin descripcion
+6,CONEJO,Sin descripcion
+7,HAMSTER,Sin descripcion
+8,COBAYO,Sin descripcion
+9,TORTUGA AGUA,Sin descripcion
+10,TORTUGA TERRESTRE,Sin descripcion
+11,PEZ AGUA FRIA,Sin descripcion
+12,PEZ AGUA CALIENTE,Sin descripcion
+13,HURON,Sin descripcion
+14,CHINCHILLA,Sin descripcion
+15,LIEBRE,Sin descripcion
+16,TODAS,Sin descripcion
