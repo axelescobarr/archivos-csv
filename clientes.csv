@@ -1,4 +1,4 @@
-CODIGO,NOMBREE,DIRECCION,TELEFONO,SMS,nro_documento,id_tributario,FECHAALTA,afiliado,correo,usuario,password,tipoCliente,DIRECCION,enable,localidadId,membresiumId,socio,fechaDesafiliacion,fechaNacimiento,observaciones;;
+CODIGO,NOMBREE,DIRECCIONN,TELEFONO,SMS,nro_documento,id_tributario,FECHAALTA,afiliado,correo,usuario,password,tipoCliente,DIRECCION,enable,localidadId,membresiumId,socio,fechaDesafiliacion,fechaNacimiento,observaciones;;
 329,CASTRILLOO CATALINA,Sin direccion,42.222313,098967143,000000000,0,09/18/09,2022-07-20,Sin email,Sin usuario,Sin contrasena,Consumidor final,Sin direccion,TRUE,1,1,FALSE,2022-07-20,2022-07-20,Sin observaciones;;
 330,CASTRO FABIAN,RINCON 775,42.254472,0000000000,000000000,0,10/15/07,2022-07-20,Sin email,Sin usuario,Sin contrasena,Consumidor final,RINCON 775,TRUE,1,1,FALSE,2022-07-20,2022-07-20,Sin observaciones;;
 332,CASTRO ANGEL,Sin direccion,42481165- 095405508,0000000000,000000000,0,09/03/08,2022-07-20,Sin email,Sin usuario,Sin contrasena,Consumidor final,Sin direccion,TRUE,1,1,FALSE,2022-07-20,2022-07-20,Sin observaciones;;
