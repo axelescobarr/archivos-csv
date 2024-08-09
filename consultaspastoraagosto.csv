@@ -1,0 +1,704 @@
+id,fechaAlta,hora,anamnesis,fechaAlta,eog,tratamiento,Temperatura,Peso,referencia,notaCaja,atendidoPor,pendiente,aFuturo,fechaAlta,fechaAlta,mascotumId,referenciumId,clienteId
+1,2018-05-08T22:11:40.000Z,22:11:40,"Sin anamnesis",2018-05-08T22:11:40.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-08T22:11:40.000Z,2018-05-08T22:11:40.000Z,3,1,1261
+2,2022-01-15T12:00:00.000Z,12:00:00,"Mc: tenesmo hace más de 15 días, por momentos es diarreaica. Se alimentaba con pedigree. Se le viene agregando vaselina y aceite a la carne con arroz, y algo hace pero muy poco. Hoy no quiso comer.
+
+Linfonodulos preescapular izquierdo aumentado, laríngeo bajo positivo. Gran molestia a nivel intestinal, no se logra percibir estructuras. Existe granado dolor en ano, se lo ve irritado y al evacuar los sacos anales se visualiza contenido espeso amarillento.
+Se ausculta soplo cardiaco del lado izquierdo.
+
+Tto: se indica perfil geriátrico y hemograma, electrocardiograma, cerenia y dipirona inyectable, spectyl 1 comp por día, continuar con dipirona en casa, laxavet en el alimento, dieta con gran porcentaje de fibra.",2022-01-15T12:00:00.000Z,"Consulta general","Sin tratamiento",39.5,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-01-15T12:00:00.000Z,2022-01-15T12:00:00.000Z,78,1,1349
+3,2022-01-17T23:10:40.000Z,23:10:40,"Sin anamnesis",2022-01-17T23:10:40.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-01-17T23:10:40.000Z,2022-01-17T23:10:40.000Z,78,1,1349
+4,2023-01-16T15:32:08.000Z,15:32:08,"concurre porque se repite el cuadro
+ahora se ve una gran dilatacion de la zona perineal  (hernia?)
+dolor y molestia
+se da leve sedacion para palpacion e inspeccion de zona anal",2023-01-16T15:32:08.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-01-16T15:32:08.000Z,2023-01-16T15:32:08.000Z,78,1,1349
+5,2023-01-17T18:09:18.000Z,18:09:18,"Se realiza citología de masa en región perineal y se evidencia un adenoma de glándula sebácea.",2023-01-17T18:09:18.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-01-17T18:09:18.000Z,2023-01-17T18:09:18.000Z,78,1,1349
+6,2018-05-15T16:20:37.000Z,16:20:37,"Sin anamnesis",2018-05-15T16:20:37.000Z,DESPARASITACION,BRAVECTO,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-15T16:20:37.000Z,2018-05-15T16:20:37.000Z,3,1,1261
+7,2020-12-01T20:19:48.000Z,20:19:48,"Sin anamnesis",2020-12-01T20:19:48.000Z,DESPARASITACION,APRAX,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-12-01T20:19:48.000Z,2020-12-01T20:19:48.000Z,3,1,1261
+8,2021-06-05T21:57:53.000Z,21:57:53,"Sin anamnesis",2021-06-05T21:57:53.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-06-05T21:57:53.000Z,2021-06-05T21:57:53.000Z,3,1,1261
+9,2021-10-14T12:54:37.000Z,12:54:37,"Sin anamnesis",2021-10-14T12:54:37.000Z,DESPARASITACION,APRAX,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-10-14T12:54:37.000Z,2021-10-14T12:54:37.000Z,3,1,1261
+10,2023-10-25T11:37:28.000Z,11:37:28,"Sin anamnesis",2023-10-25T11:37:28.000Z,DESPARASITACION,"milbemicina y praziquantel",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-10-25T11:37:28.000Z,2023-10-25T11:37:28.000Z,3,1,1261
+11,2018-12-07T17:04:41.000Z,17:04:41,"Sin anamnesis",2018-12-07T17:04:41.000Z,DESPARASITACION,COMFORTIS,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-12-07T17:04:41.000Z,2018-12-07T17:04:41.000Z,6,1,1261
+12,2023-04-18T18:27:54.000Z,18:27:54,"mc no camina bien no se levanta
+MUCOSAS PALIDAS ALGO DESHIDRATADA
+SATURACION 95
+INCOORDINACION Y DEBILIDAD
+FLUIDO  METABOLASE
+pas 152 pad 94  PAM 110",2023-04-18T18:27:54.000Z,"Consulta general","Sin tratamiento",38,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-04-18T18:27:54.000Z,2023-04-18T18:27:54.000Z,78,1,1349
+13,2018-05-09T17:47:44.000Z,17:47:44,"Sin anamnesis",2018-05-09T17:47:44.000Z,"Consulta general","Sin tratamiento",0,18,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-09T17:47:44.000Z,2018-05-09T17:47:44.000Z,8,1,1263
+14,2018-05-12T16:30:22.000Z,16:30:22,"Sin anamnesis",2018-05-12T16:30:22.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-12T16:30:22.000Z,2018-05-12T16:30:22.000Z,80,1,1351
+15,2018-05-09T18:18:52.000Z,18:18:52,"Sin anamnesis",2018-05-09T18:18:52.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-09T18:18:52.000Z,2018-05-09T18:18:52.000Z,11,1,1266
+16,2022-02-04T18:28:06.000Z,18:28:06,"Sin anamnesis",2022-02-04T18:28:06.000Z,VACUNA,Doble,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-02-04T18:28:06.000Z,2022-02-04T18:28:06.000Z,82,1,1351
+17,2024-02-23T18:49:54.000Z,18:49:54,"EL VIERNES 16/02/24 SE COMIENZA CON 5MG DE PREDNISOLONA CADA 24 HORAS
+
+EL VIERNES 23/02/24 SE LE ADMINISTRA POR VIA PARENTERAL SUB CUTANEA 0.85 CONVENIA 
+
+EL SABADO 24/02/24 SE CONTINUA CON LA MISMA DOSIS PERO CADA 48 HORAS",2024-02-23T18:49:54.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-02-23T18:49:54.000Z,2024-02-23T18:49:54.000Z,13,1,1266
+18,2022-02-09T19:55:54.000Z,19:55:54,"Sin anamnesis",2022-02-09T19:55:54.000Z,VACUNA,Cuadruple,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-02-09T19:55:54.000Z,2022-02-09T19:55:54.000Z,84,1,1351
+19,2018-05-12T18:27:54.000Z,18:27:54,"Sin anamnesis",2018-05-12T18:27:54.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-12T18:27:54.000Z,2018-05-12T18:27:54.000Z,87,1,1355
+20,2018-05-12T18:31:03.000Z,18:31:03,"Sin anamnesis",2018-05-12T18:31:03.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-12T18:31:03.000Z,2018-05-12T18:31:03.000Z,89,1,1357
+21,2024-03-16T14:21:19.000Z,14:21:19,"LUEGO DE TOTAL NEGLIGENCIA DE SUS TUTORES LOS CUALES NO RECORDARON LA FECHA EN LA CUAL ESTABA ESTIPULADO REPETIR EL TRATAMIENTO CON CONVENIA SE CONTACTO A LAS AUTORIDADES DEL INBA POR MALTRATO ANIMAL
+
+SE PUDO RETIRAR EL ANIMAL DE LOS TUTORES Y PASO A LOS CUIDADOS DEL CIUDADANO EJEMPLAR JUAN CAMACHO
+
+EL 16/03/24 SE LE ADMINISTRA CONVENIA SUBCUTANEO Y CORTAVANCE TOPICO",2024-03-16T14:21:19.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-03-16T14:21:19.000Z,2024-03-16T14:21:19.000Z,13,1,1266
+22,2024-03-23T17:35:34.000Z,17:35:34,"SE COMIENZA NUEVAMENTE A ADMINISTRAR PREDNISOLONA 5MG CADA 24 HRS POR 3 DIAS
+LUEGO SE ADMINISTRA 5MG CADA 48 HORAS POR 3 DIAS",2024-03-23T17:35:34.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-03-23T17:35:34.000Z,2024-03-23T17:35:34.000Z,13,1,1266
+23,2024-06-28T15:18:24.000Z,15:18:24,"Sin anamnesis",2024-06-28T15:18:24.000Z,DESPARASITACION,REVOLUTION,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-06-28T15:18:24.000Z,2024-06-28T15:18:24.000Z,13,1,1266
+24,2018-05-10T15:33:29.000Z,15:33:29,"Sin anamnesis",2018-05-10T15:33:29.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-10T15:33:29.000Z,2018-05-10T15:33:29.000Z,14,1,1269
+25,2018-05-10T15:56:31.000Z,15:56:31,"Sin anamnesis",2018-05-10T15:56:31.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-10T15:56:31.000Z,2018-05-10T15:56:31.000Z,15,1,1269
+26,2018-05-10T15:58:05.000Z,15:58:05,"Sin anamnesis",2018-05-10T15:58:05.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-10T15:58:05.000Z,2018-05-10T15:58:05.000Z,16,1,1269
+27,2020-11-14T17:51:01.000Z,17:51:01,"Se palparon articulaciones y tejidos blandos y no e encontro dolor. 
+Se manda equilibrio obesity 275g por dia para bajar de peso y ejercicio diario.
+
+Tto: dipirona inyectable",2020-11-14T17:51:01.000Z,"Consulta general","Sin tratamiento",39.4,31.35,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-11-14T17:51:01.000Z,2020-11-14T17:51:01.000Z,20,1,1270
+28,2021-01-23T13:52:06.000Z,13:52:06,"Agitacion casi permanente
+Demuestra algun  dolor en region toraco lumbar
+Nada mas para destacar
+dipirona cada 12 hrs",2021-01-23T13:52:06.000Z,"Consulta general","Sin tratamiento",39.4,30.5,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-01-23T13:52:06.000Z,2021-01-23T13:52:06.000Z,20,1,1270
+29,2021-02-06T12:00:00.000Z,12:00:00,"Sin anamnesis",2021-02-06T12:00:00.000Z,EXAMEN,"Analisis de Laboratorio 0",38,30,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-02-06T12:00:00.000Z,2021-02-06T12:00:00.000Z,20,1,1270
+30,2021-12-04T15:15:03.000Z,15:15:03,"consulta por verrugas 
+presenta tres verrugas sin otras lesiones
+actualmente sobrepeso 
+come biofresh light
+se sugiere control de peso, perfil bioquímico con t4, comenzar con 1 hora de ejercicio diario
+presenta enf periodontal se sugiere limpieza mecánica 
+en verrugas novapel crema
+auscultación s/p",2021-12-04T15:15:03.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-12-04T15:15:03.000Z,2021-12-04T15:15:03.000Z,20,1,1270
+31,2022-01-04T20:13:23.000Z,20:13:23,"Sin anamnesis",2022-01-04T20:13:23.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-01-04T20:13:23.000Z,2022-01-04T20:13:23.000Z,20,1,1270
+32,2022-01-04T21:41:43.000Z,21:41:43,"comienza tratamiento para bajar de peso con virbac w
+trihepat 5 ml cada 24 hs",2022-01-04T21:41:43.000Z,"Consulta general","Sin tratamiento",0,28.45,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-01-04T21:41:43.000Z,2022-01-04T21:41:43.000Z,20,1,1270
+33,2022-01-09T00:10:26.000Z,00:10:26,"Sin anamnesis",2022-01-09T00:10:26.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-01-09T00:10:26.000Z,2022-01-09T00:10:26.000Z,20,1,1270
+34,2022-01-19T13:56:41.000Z,13:56:41,"Sin anamnesis",2022-01-19T13:56:41.000Z,"Consulta general","Sin tratamiento",0,28100,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-01-19T13:56:41.000Z,2022-01-19T13:56:41.000Z,20,1,1270
+35,2022-01-26T15:37:58.000Z,15:37:58,"consulta por estornudos
+se observa secreción serosa 
+tusígeno negativo 
+auscultación sp
+comenzamos apibron y controlar",2022-01-26T15:37:58.000Z,"Consulta general","Sin tratamiento",0,27.95,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-01-26T15:37:58.000Z,2022-01-26T15:37:58.000Z,20,1,1270
+36,2022-02-03T16:07:57.000Z,16:07:57,"CONTINÚA CON PROTECTOR HEPÁTICO TRIHEPAT POR EPISODIO DE DIARREA LUEGO DE COMER UN PREMIO",2022-02-03T16:07:57.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-02-03T16:07:57.000Z,2022-02-03T16:07:57.000Z,20,1,1270
+37,2022-03-12T15:58:13.000Z,15:58:13,"Sin anamnesis",2022-03-12T15:58:13.000Z,"Consulta general","Sin tratamiento",0,26.2,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-03-12T15:58:13.000Z,2022-03-12T15:58:13.000Z,20,1,1270
+38,2022-04-12T16:50:26.000Z,16:50:26,"extraigo sangre para control y realizo tirilla de orina",2022-04-12T16:50:26.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-04-12T16:50:26.000Z,2022-04-12T16:50:26.000Z,20,1,1270
+39,2022-04-12T16:51:38.000Z,16:51:38,"Sin anamnesis",2022-04-12T16:51:38.000Z,EXAMEN,"EXAMEN DE ORINA densidad 1025
+leucocitos 500 +++
+ph 5
+sangre +
+prot +
+ascórbico +",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-04-12T16:51:38.000Z,2022-04-12T16:51:38.000Z,20,1,1270
+40,2022-04-12T18:27:40.000Z,18:27:40,"Sin anamnesis",2022-04-12T18:27:40.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-04-12T18:27:40.000Z,2022-04-12T18:27:40.000Z,20,1,1270
+41,2022-04-20T17:13:45.000Z,17:13:45,"Sin anamnesis",2022-04-20T17:13:45.000Z,EXAMEN,"Analisis de Laboratorio Sedimento urinario presencia de leucocitos y bacteriuria",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-04-20T17:13:45.000Z,2022-04-20T17:13:45.000Z,20,1,1270
+42,2022-10-29T15:04:00.000Z,15:04:00,"concurre para extracción sanguínea chequeo geriátrico 
+seborrea sugiero bañar con sebo calm 
+procesamos resultados",2022-10-29T15:04:00.000Z,"Consulta general","Sin tratamiento",0,22,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-10-29T15:04:00.000Z,2022-10-29T15:04:00.000Z,20,1,1270
+43,2023-01-28T19:17:15.000Z,19:17:15,"Sin anamnesis",2023-01-28T19:17:15.000Z,DESPARASITACION,APRAX,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-01-28T19:17:15.000Z,2023-01-28T19:17:15.000Z,22,1,1270
+44,2023-02-13T19:44:34.000Z,19:44:34,"Sin anamnesis",2023-02-13T19:44:34.000Z,VACUNA,Doble,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-02-13T19:44:34.000Z,2023-02-13T19:44:34.000Z,22,1,1270
+45,2023-03-06T14:22:27.000Z,14:22:27,"Sin anamnesis",2023-03-06T14:22:27.000Z,VACUNA,Doble,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-03-06T14:22:27.000Z,2023-03-06T14:22:27.000Z,22,1,1270
+46,2023-03-06T14:22:54.000Z,14:22:54,"Sin anamnesis",2023-03-06T14:22:54.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-03-06T14:22:54.000Z,2023-03-06T14:22:54.000Z,22,1,1270
+47,2023-03-27T13:19:39.000Z,13:19:39,"Sin anamnesis",2023-03-27T13:19:39.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-03-27T13:19:39.000Z,2023-03-27T13:19:39.000Z,22,1,1270
+48,2024-01-08T22:25:21.000Z,22:25:21,"DIARREA INTERMITENTE HACE 2 DIAS
+MATERIA BLANDA CON UN POCO DE MATERIA LIQUIDA
+RESTO EXAMEN SP
+NEOENTERO
+DESPARASITAR",2024-01-08T22:25:21.000Z,"Consulta general","Sin tratamiento",0,18.8,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-01-08T22:25:21.000Z,2024-01-08T22:25:21.000Z,22,1,1270
+49,2024-01-19T16:03:16.000Z,16:03:16,"COMIÓ UNOS BROTES DE HORTENSIA
+COENZÓ CON VÓMITOS EN LA MAÑANA , VOMITÓ ALIMENTO Y LUEGO VÓMITOS CON SALIVA, UNAS 6 VECES APROXIMADAMENTE
+CLINICAMENTE NORMAL, ALGO DE MOLESTIA ABDOMINAL 
+ADINISTRAMOS CERENIA 
+COCINAR POLLO CON ARROZ, DAR PEQUEÑAS CANTIDADES",2024-01-19T16:03:16.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-01-19T16:03:16.000Z,2024-01-19T16:03:16.000Z,22,1,1270
+50,2018-05-09T19:43:22.000Z,19:43:22,"Sin anamnesis",2018-05-09T19:43:22.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-09T19:43:22.000Z,2018-05-09T19:43:22.000Z,24,1,1273
+51,2018-06-28T18:46:38.000Z,18:46:38,"Sin anamnesis",2018-06-28T18:46:38.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-28T18:46:38.000Z,2018-06-28T18:46:38.000Z,24,1,1273
+52,2018-06-28T18:47:35.000Z,18:47:35,"Sin anamnesis",2018-06-28T18:47:35.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-28T18:47:35.000Z,2018-06-28T18:47:35.000Z,26,1,1273
+53,2018-05-19T17:54:18.000Z,17:54:18,"prurito
+limpieza de oído Por prurito
+se presenta con engrosamiento del Canal auricular y prurito por lo que se le higieniza el oído con otro Pet limpieza y se le da Se le lleva a la casa Prednisona 10 mg
+debe concurrir el lunes para inspeccionar",2018-05-19T17:54:18.000Z,"Consulta general","Sin tratamiento",38.5,8.5,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-19T17:54:18.000Z,2018-05-19T17:54:18.000Z,28,1,1275
+54,2018-06-19T21:34:44.000Z,21:34:44,"VUELVE A CONTROL DE OIDOS, PRESENTA IRRITACION Y SECRECION Y ESTA MOLESTO.
+LE MANDO OTOPET TERAPIA CADA 12 HS POR 10 DIAS",2018-06-19T21:34:44.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-19T21:34:44.000Z,2018-06-19T21:34:44.000Z,28,1,1275
+55,2018-09-11T20:08:30.000Z,20:08:30,"REVISION POR FISTULA A NIVEL INTERCOSTAL, VIENE DE UNA CIRUGIA DE CACHORRO.... SE LE ENVIA MARBO Y PREVICOX PARA PREPARARLO A CIRUGIA.",2018-09-11T20:08:30.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-09-11T20:08:30.000Z,2018-09-11T20:08:30.000Z,28,1,1275
+56,2019-10-21T20:01:14.000Z,20:01:14,"Sin anamnesis",2019-10-21T20:01:14.000Z,DESPARASITACION,NEXGARD,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-10-21T20:01:14.000Z,2019-10-21T20:01:14.000Z,28,1,1275
+57,2019-11-21T17:31:21.000Z,17:31:21,"Sin anamnesis",2019-11-21T17:31:21.000Z,DESPARASITACION,NEXGARD,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-11-21T17:31:21.000Z,2019-11-21T17:31:21.000Z,28,1,1275
+58,2021-09-01T20:52:37.000Z,20:52:37,"Consulta por prurito y lesiones 
+Se observan rastros de lamido frecuente en vientre y Lesiones alopecicas en flanco de mmpp
+Se observan abundantes pulgas
+Pulicosis alergica
+Tto. Predni vía oral
+Spray clhorex en lesion
+Baños micoseb 1 vez semana
+Tto ectoparasitos (cordellio) y tto del ambiente (tea larvox)",2021-09-01T20:52:37.000Z,"Consulta general","Sin tratamiento",0,14,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-09-01T20:52:37.000Z,2021-09-01T20:52:37.000Z,40,1,1322
+59,2018-05-17T20:34:06.000Z,20:34:06,"SE PRESENTA LUEGO DE SER ATROPELLADA....
+NO SE OBSERVAN ALTERACIONES IMPORTANTES, SE LE REALIZA ECO DE ABDOMEN TODO OK
+SE LE MANDA PREVICOX 57 MG 1/2 CADA 24 POR 6 DIAS Y 6A EN DOS HERIDAS EN LA CABEZA",2018-05-17T20:34:06.000Z,"Consulta general","Sin tratamiento",0,7.35,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-17T20:34:06.000Z,2018-05-17T20:34:06.000Z,43,1,1323
+60,2018-06-11T19:12:20.000Z,19:12:20,"se envia sangre a laclivet (lipasa pancreatica)
+Comienza con Intestinal Royal Canin",2018-06-11T19:12:20.000Z,"Consulta general","Sin tratamiento",38.3,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-11T19:12:20.000Z,2018-06-11T19:12:20.000Z,43,1,1323
+61,2020-06-20T18:01:23.000Z,18:01:23,"Sin anamnesis",2020-06-20T18:01:23.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-06-20T18:01:23.000Z,2020-06-20T18:01:23.000Z,45,1,1323
+62,2019-04-08T18:44:51.000Z,18:44:51,"presenta episodios de diarrea... se le envia dieta y se le administra cerenia",2019-04-08T18:44:51.000Z,"Consulta general","Sin tratamiento",38.6,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-04-08T18:44:51.000Z,2019-04-08T18:44:51.000Z,46,1,1325
+63,2019-07-30T17:47:11.000Z,17:47:11,"Sin anamnesis",2019-07-30T17:47:11.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-07-30T17:47:11.000Z,2019-07-30T17:47:11.000Z,46,1,1325
+64,2020-05-28T21:44:01.000Z,21:44:01,"se presenta por vomitos y diarrea de color negro, hace 24 hs que esta así.
+cada poco hace estos episodios, se recomienda empezar con intestinal de rc que ya tiene y continuar luego para mejorarle la función digestiva
+se le administra maropitan",2020-05-28T21:44:01.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-05-28T21:44:01.000Z,2020-05-28T21:44:01.000Z,46,1,1325
+65,2020-11-13T20:54:38.000Z,20:54:38,"Stomorgyl 1/4 comprimido por dia durante 10 dias debido a halitosis",2020-11-13T20:54:38.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-11-13T20:54:38.000Z,2020-11-13T20:54:38.000Z,46,1,1325
+66,2023-09-25T15:57:16.000Z,15:57:16,"Sin anamnesis",2023-09-25T15:57:16.000Z,VACUNA,"SEXTUPLE Y RABIA",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-09-25T15:57:16.000Z,2023-09-25T15:57:16.000Z,46,1,1325
+67,2018-07-11T17:06:39.000Z,17:06:39,"Sin anamnesis",2018-07-11T17:06:39.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-07-11T17:06:39.000Z,2018-07-11T17:06:39.000Z,48,1,1325
+68,2018-07-11T17:06:39.000Z,17:06:39,"Sin anamnesis",2018-07-11T17:06:39.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-07-11T17:06:39.000Z,2018-07-11T17:06:39.000Z,48,1,1325
+69,2018-07-11T17:22:22.000Z,17:22:22,"Sin anamnesis",2018-07-11T17:22:22.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-07-11T17:22:22.000Z,2018-07-11T17:22:22.000Z,48,1,1325
+70,2019-04-08T18:45:51.000Z,18:45:51,"Sin anamnesis",2019-04-08T18:45:51.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-04-08T18:45:51.000Z,2019-04-08T18:45:51.000Z,48,1,1325
+71,2019-10-23T22:03:35.000Z,22:03:35,"Presenta posicion antialgica. le cerraron una cama marinera el lunes y lo apretaron.
+Presenta dolor lumbar.
+se le administra meloxi y se le envia previcox por 1 semana",2019-10-23T22:03:35.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-10-23T22:03:35.000Z,2019-10-23T22:03:35.000Z,48,1,1325
+72,2019-11-06T21:14:26.000Z,21:14:26,"presenta diarrea de color negro oscuro ...
+se le evnvia talipectim por 10 dias",2019-11-06T21:14:26.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-11-06T21:14:26.000Z,2019-11-06T21:14:26.000Z,48,1,1325
+73,2020-01-03T17:08:25.000Z,17:08:25,"MC  vomitos diarrea  HIPOREXIA
+DOLOR ABDOMINAL
+TARTAMIENTO MAROPITAN DIETA INTESTINAL
+TALIPECTIN 1/40COMP CADA 12",2020-01-03T17:08:25.000Z,"Consulta general","Sin tratamiento",38.5,3,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-01-03T17:08:25.000Z,2020-01-03T17:08:25.000Z,48,1,1325
+74,2020-04-13T20:30:06.000Z,20:30:06,"Sin anamnesis",2020-04-13T20:30:06.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-04-13T20:30:06.000Z,2020-04-13T20:30:06.000Z,48,1,1325
+75,2021-12-28T22:11:24.000Z,22:11:24,"Mc: vomitos y diarrea con un poquito de sangre.
+
+Se evidencia molestia abdominal.
+
+Tto: cerenia, hills i/d, neodimetrogin por 5 dias",2021-12-28T22:11:24.000Z,"Consulta general","Sin tratamiento",38.7,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-12-28T22:11:24.000Z,2021-12-28T22:11:24.000Z,48,1,1325
+76,2023-10-12T18:46:01.000Z,18:46:01,"vómitos, cólicos, dolor abdominal, 72 hs de evolución
+aplicamos cerenia",2023-10-12T18:46:01.000Z,"Consulta general","Sin tratamiento",37.8,4,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-10-12T18:46:01.000Z,2023-10-12T18:46:01.000Z,48,1,1325
+77,2023-10-16T14:12:56.000Z,14:12:56,"aparente cistitis 
+incontinencia y hematuria
+leve inflamación abdominal
+estuvo con comportamiento de monta más marcado de lo normal 
+previcox mientras realizamos orina completa",2023-10-16T14:12:56.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-10-16T14:12:56.000Z,2023-10-16T14:12:56.000Z,48,1,1325
+78,2023-10-16T17:50:49.000Z,17:50:49,"Sin anamnesis",2023-10-16T17:50:49.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-10-16T17:50:49.000Z,2023-10-16T17:50:49.000Z,48,1,1325
+79,2023-10-16T17:52:57.000Z,17:52:57,"se constata leuco ++ en orina, sedimento se observa abundante celularidad , algunos cristales amorfos
+trato de comunicarme via telefónica pero no recibo respuesta , envío mail para comunicar resultado debe comenzar antibiótico",2023-10-16T17:52:57.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-10-16T17:52:57.000Z,2023-10-16T17:52:57.000Z,48,1,1325
+80,2024-02-02T15:09:19.000Z,15:09:19,"Sin anamnesis",2024-02-02T15:09:19.000Z,"VACUNA, DESPARASITACION","Triple Felina, TORTRAZOL",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-02-02T15:09:19.000Z,2024-02-02T15:09:19.000Z,50,1,1325
+81,2024-07-26T20:51:35.000Z,20:51:35,"Sin anamnesis",2024-07-26T20:51:35.000Z,DESPARASITACION,TOLTRAZOL,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-07-26T20:51:35.000Z,2024-07-26T20:51:35.000Z,52,1,1325
+82,2024-08-06T20:17:35.000Z,20:17:35,"Sin anamnesis",2024-08-06T20:17:35.000Z,DESPARASITACION,TOLTRAZOL,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-08-06T20:17:35.000Z,2024-08-06T20:17:35.000Z,52,1,1325
+83,2018-05-18T14:32:38.000Z,14:32:38,"Sin anamnesis",2018-05-18T14:32:38.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-18T14:32:38.000Z,2018-05-18T14:32:38.000Z,54,1,1327
+84,2018-07-06T15:23:48.000Z,15:23:48,"Fuerte dolor en MPI , cadera, 
+tolfedine,tramadol,y glicosamino   inject
+a domicilio previcox   tramadol (en la noche) y bioflexa",2018-07-06T15:23:48.000Z,"Consulta general","Sin tratamiento",0,38,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-07-06T15:23:48.000Z,2018-07-06T15:23:48.000Z,54,1,1327
+85,2019-11-08T19:36:56.000Z,19:36:56,"Sin anamnesis",2019-11-08T19:36:56.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-11-08T19:36:56.000Z,2019-11-08T19:36:56.000Z,54,1,1327
+86,2018-05-18T14:36:36.000Z,14:36:36,"Sin anamnesis",2018-05-18T14:36:36.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-18T14:36:36.000Z,2018-05-18T14:36:36.000Z,56,1,1327
+87,2018-06-14T20:00:37.000Z,20:00:37,"Sin anamnesis",2018-06-14T20:00:37.000Z,DESPARASITACION,MILBEMICINA,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-14T20:00:37.000Z,2018-06-14T20:00:37.000Z,56,1,1327
+88,2018-05-21T14:44:49.000Z,14:44:49,"Sin anamnesis",2018-05-21T14:44:49.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-21T14:44:49.000Z,2018-05-21T14:44:49.000Z,61,1,1327
+89,2019-11-11T18:48:12.000Z,18:48:12,"Sin anamnesis",2019-11-11T18:48:12.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-11-11T18:48:12.000Z,2019-11-11T18:48:12.000Z,61,1,1327
+90,2021-07-19T21:38:03.000Z,21:38:03,"Mc: heridas en MAD por mordedura de perro, se suturaron.
+
+Tto: previcox 227mg: 3/4 comp por dia por 6 dias, clavaseptin 500mg: 3/4 comp cada 12 horas durante 10 dias",2021-07-19T21:38:03.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-07-19T21:38:03.000Z,2021-07-19T21:38:03.000Z,61,1,1327
+91,2018-05-21T14:46:07.000Z,14:46:07,"Sin anamnesis",2018-05-21T14:46:07.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-21T14:46:07.000Z,2018-05-21T14:46:07.000Z,64,1,1327
+92,2019-11-11T18:47:48.000Z,18:47:48,"Sin anamnesis",2019-11-11T18:47:48.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-11-11T18:47:48.000Z,2019-11-11T18:47:48.000Z,64,1,1327
+93,2018-05-21T14:52:07.000Z,14:52:07,"Sin anamnesis",2018-05-21T14:52:07.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-21T14:52:07.000Z,2018-05-21T14:52:07.000Z,73,1,1327
+94,2019-11-08T19:43:17.000Z,19:43:17,"Sin anamnesis",2019-11-08T19:43:17.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-11-08T19:43:17.000Z,2019-11-08T19:43:17.000Z,73,1,1327
+95,2019-12-16T21:30:19.000Z,21:30:19,"OVARIECTOMIA S/P",2019-12-16T21:30:19.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-12-16T21:30:19.000Z,2019-12-16T21:30:19.000Z,73,1,1327
+96,2018-05-22T13:56:10.000Z,13:56:10,"Sin anamnesis",2018-05-22T13:56:10.000Z,"VACUNA, DESPARASITACION","SEXTUPLE, GRANTELM",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-22T13:56:10.000Z,2018-05-22T13:56:10.000Z,75,1,1327
+97,2019-05-11T19:25:52.000Z,19:25:52,"Se prestna ca consulta por lagrimeo excesivo,
+se le realiza test de floueresceina dando positivo en el ojo izq contra el canto lateral.
+se le envia ciprovet cada 8 hs y hialuronidato de sodio cada 12 hs.
+Vuelve a control en 10 dias",2019-05-11T19:25:52.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-05-11T19:25:52.000Z,2019-05-11T19:25:52.000Z,75,1,1327
+98,2019-11-11T18:48:36.000Z,18:48:36,"Sin anamnesis",2019-11-11T18:48:36.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-11-11T18:48:36.000Z,2019-11-11T18:48:36.000Z,75,1,1327
+99,2019-12-02T20:22:29.000Z,20:22:29,"PRESENTA DEFORMACION EN MAS EN ZONA DE LA ARTICULACION TIBIAL CON METATARSO...
+SE OBSERVA INFECCION EN EL CALLO QUE SE OBSERVA EN LA ZONA Y UNA GRAN DERMATITIS EN LA ZONA.
+SE LE ENVIA MELOXI POR 8 DIAS Y CLAVASEPTIN POR 10 DIAS",2019-12-02T20:22:29.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-12-02T20:22:29.000Z,2019-12-02T20:22:29.000Z,75,1,1327
+100,2020-01-16T20:06:37.000Z,20:06:37,"SE PRESENTA POR LESIONES A NIVEL DE AMBOS CODOS, EL IZQUIERDO ESTA CON VARIAS HERIDAS (EN UNA DE ELAS SE OBSERVA UNA MIASIS)...
+SE PROCEDE A ELIMINARLA Y SE LE ENVIA APLICARLE CURAMIC DOS VECES AL DIA
+ADEMAS POR LA INFLAMACION QUE PRESENTA, SE LE ENVIA 2 RIMADYL CADA 12 HS POR 6 DIAS Y CEFALEXINA 500 4CP  CADA 12HS POR 10DIAS",2020-01-16T20:06:37.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-01-16T20:06:37.000Z,2020-01-16T20:06:37.000Z,75,1,1327
+101,2020-12-26T21:48:23.000Z,21:48:23,"SE PRESENTA POR MIASIS A NIVEL DEL CODO DERECHO, SE LE REALIZA LIMPIEZA, SE LE DESINFECTA BIEN Y SE LE ENCUENTRA OTRA LESION A NIVEL DE LA MEJILLA DEL MISMO LADO
+SE LE DA NEXGARD 2 CP 25-50 Y SE LE ENVIA MARBO POR 8 DIAS",2020-12-26T21:48:23.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-12-26T21:48:23.000Z,2020-12-26T21:48:23.000Z,75,1,1327
+102,2021-07-26T19:18:36.000Z,19:18:36,"Sin anamnesis",2021-07-26T19:18:36.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-07-26T19:18:36.000Z,2021-07-26T19:18:36.000Z,75,1,1327
+103,2023-01-10T19:36:46.000Z,19:36:46,"Mc: cayos en codos con lesiones grandes. Se evidencia negrosis de tejido.
+
+Tto: clavaseptin 500mg 2 comp cada 12 horas por 10 dias, previcox 227mg 2 comp por día por 5 dias, dipirona por 3 dias. Nexgard spectra y bactrovet. Higiene con clorhexidina y agua oxigenada. Control el viernes, posibilidad de desbridar.",2023-01-10T19:36:46.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-01-10T19:36:46.000Z,2023-01-10T19:36:46.000Z,75,1,1327
+104,2023-01-13T17:07:45.000Z,17:07:45,"Continuar con atb volver el martes para retirar tejido",2023-01-13T17:07:45.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-01-13T17:07:45.000Z,2023-01-13T17:07:45.000Z,75,1,1327
+105,2018-06-06T18:10:29.000Z,18:10:29,"Sin anamnesis",2018-06-06T18:10:29.000Z,VACUNA,Doble,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-06T18:10:29.000Z,2018-06-06T18:10:29.000Z,77,1,1327
+106,2019-11-08T19:50:02.000Z,19:50:02,"Sin anamnesis",2019-11-08T19:50:02.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-11-08T19:50:02.000Z,2019-11-08T19:50:02.000Z,81,1,1327
+107,2020-01-10T21:15:36.000Z,21:15:36,"SE PRESENTA POR CLAUDICACION DEL MA, ANDA DETRAS DE EQUINOS Y JUGANDO TODO EL DIA, APARECIO ASI
+NO PRESENTA FRACTURA, EL DOLOR ES A NIVEL DE LOS METACARPIANOS
+SE LE ENVIA PREVICOX 57 MG POR 7 DIAS",2020-01-10T21:15:36.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-01-10T21:15:36.000Z,2020-01-10T21:15:36.000Z,81,1,1327
+108,2023-04-24T16:48:21.000Z,16:48:21,"Mc: perrito rescatado desde hace 1 semana.
+Se evidencia una lesion vieja en dedos MAD, presenta una leve claudicación. Se realiza radiografia.",2023-04-24T16:48:21.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-04-24T16:48:21.000Z,2023-04-24T16:48:21.000Z,83,1,1327
+109,2023-04-24T16:48:45.000Z,16:48:45,"Sin anamnesis",2023-04-24T16:48:45.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-04-24T16:48:45.000Z,2023-04-24T16:48:45.000Z,83,1,1327
+110,2018-05-18T15:55:00.000Z,15:55:00,"Sin anamnesis",2018-05-18T15:55:00.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-18T15:55:00.000Z,2018-05-18T15:55:00.000Z,85,1,1329
+111,2018-08-18T18:25:48.000Z,18:25:48,"Sin anamnesis",2018-08-18T18:25:48.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-08-18T18:25:48.000Z,2018-08-18T18:25:48.000Z,85,1,1329
+112,2018-09-17T20:08:17.000Z,20:08:17,"Sin anamnesis",2018-09-17T20:08:17.000Z,DESPARASITACION,"NEXGARD SPECTRA",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-09-17T20:08:17.000Z,2018-09-17T20:08:17.000Z,85,1,1329
+113,2018-10-23T14:13:05.000Z,14:13:05,"Sin anamnesis",2018-10-23T14:13:05.000Z,DESPARASITACION,BRAVECTO,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-10-23T14:13:05.000Z,2018-10-23T14:13:05.000Z,85,1,1329
+114,2018-10-23T14:13:05.000Z,14:13:05,"Sin anamnesis",2018-10-23T14:13:05.000Z,DESPARASITACION,BRAVECTO,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-10-23T14:13:05.000Z,2018-10-23T14:13:05.000Z,85,1,1329
+115,2018-12-04T20:28:28.000Z,20:28:28,"OVARECTOMIA S/P",2018-12-04T20:28:28.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-12-04T20:28:28.000Z,2018-12-04T20:28:28.000Z,85,1,1329
+116,2018-12-20T14:35:11.000Z,14:35:11,"Sin anamnesis",2018-12-20T14:35:11.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-12-20T14:35:11.000Z,2018-12-20T14:35:11.000Z,85,1,1329
+117,2019-02-27T15:17:55.000Z,15:17:55,"Sin anamnesis",2019-02-27T15:17:55.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-02-27T15:17:55.000Z,2019-02-27T15:17:55.000Z,85,1,1329
+118,2019-02-27T15:17:55.000Z,15:17:55,"Sin anamnesis",2019-02-27T15:17:55.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-02-27T15:17:55.000Z,2019-02-27T15:17:55.000Z,85,1,1329
+119,2019-06-22T19:07:24.000Z,19:07:24,"pustula edematizada en zona perianal 
+tratamiento medico
+stomorgyl
+prednisona",2019-06-22T19:07:24.000Z,"Consulta general","Sin tratamiento",368,12,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-06-22T19:07:24.000Z,2019-06-22T19:07:24.000Z,85,1,1329
+120,2020-01-22T16:03:40.000Z,16:03:40,"Sin anamnesis",2020-01-22T16:03:40.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-01-22T16:03:40.000Z,2020-01-22T16:03:40.000Z,85,1,1329
+121,2020-01-22T16:06:23.000Z,16:06:23,"Sin anamnesis",2020-01-22T16:06:23.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-01-22T16:06:23.000Z,2020-01-22T16:06:23.000Z,85,1,1329
+122,2020-05-29T16:33:20.000Z,16:33:20,"Sin anamnesis",2020-05-29T16:33:20.000Z,VACUNA,KC,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-05-29T16:33:20.000Z,2020-05-29T16:33:20.000Z,85,1,1329
+123,2020-11-16T19:37:10.000Z,19:37:10,"Mc comienza con decaimiento y hiporexia
+Come pastos y algunas espigas a partir de ahí, comienza con estornudos invertidos y algunos vomitos quizás provocado por el intento de sacarles esos pastos
+Llaman emergencia, y da antiinflamatorio.
+Ahora se encuentra bien , algo aumentados los módulos submaxilares, resto sin particularidad.
+Para regular se le administra meloxican y cerenia",2020-11-16T19:37:10.000Z,"Consulta general","Sin tratamiento",38,9,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-11-16T19:37:10.000Z,2020-11-16T19:37:10.000Z,85,1,1329
+124,2021-08-21T19:17:56.000Z,19:17:56,"Sin anamnesis",2021-08-21T19:17:56.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-08-21T19:17:56.000Z,2021-08-21T19:17:56.000Z,86,1,1331
+125,2021-08-19T12:00:00.000Z,12:00:00,"Diarrea crónico con empujes desde Nov 2020
+Presenta decaimiento, anorexia y diarrea
+8 % deshidratación, hipotensiom, distensión abdominal, periodontitis grado 4 y sarro abundante
+Fluidoterapia potasio y complemento aminolite, cerenia, METABOLASE.
+Atb gastroenteril",2021-08-19T12:00:00.000Z,"Consulta general","Sin tratamiento",37.5,1.6,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-08-19T12:00:00.000Z,2021-08-19T12:00:00.000Z,86,1,1331
+126,2021-08-20T12:00:00.000Z,12:00:00,"Presenta mejoria, comió (paté g.i Monge). Presenta mayor distensión intestinal, succión positiva.
+Ecografia abdominal presencia de líquido libre, hígado superficie volumen e imagen normal, enteritis. Resto s/p.
+Se extrae sangre para Analisis 
+Repito medicación",2021-08-20T12:00:00.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-08-20T12:00:00.000Z,2021-08-20T12:00:00.000Z,86,1,1331
+127,2021-08-21T19:25:36.000Z,19:25:36,"Se presenta algo decaída
+Menos distensión abdominal
+Luego de Analisis se resuelve
+Enzimax
+Probioticos
+DIETA
+CONTROL siguiente semana",2021-08-21T19:25:36.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-08-21T19:25:36.000Z,2021-08-21T19:25:36.000Z,86,1,1331
+128,2018-05-19T18:38:41.000Z,18:38:41,"Sin anamnesis",2018-05-19T18:38:41.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-19T18:38:41.000Z,2018-05-19T18:38:41.000Z,88,1,1337
+129,2018-07-02T20:24:13.000Z,20:24:13,"Sin anamnesis",2018-07-02T20:24:13.000Z,DESPARASITACION,APRAX,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-07-02T20:24:13.000Z,2018-07-02T20:24:13.000Z,88,1,1337
+130,2018-10-06T14:10:29.000Z,14:10:29,"Sin anamnesis",2018-10-06T14:10:29.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-10-06T14:10:29.000Z,2018-10-06T14:10:29.000Z,88,1,1337
+131,2018-12-01T18:11:05.000Z,18:11:05,"Sin anamnesis",2018-12-01T18:11:05.000Z,DESPARASITACION,BRAVECTO,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-12-01T18:11:05.000Z,2018-12-01T18:11:05.000Z,88,1,1337
+132,2019-05-02T17:10:51.000Z,17:10:51,"Sin anamnesis",2019-05-02T17:10:51.000Z,VACUNA,Cuadruple,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-05-02T17:10:51.000Z,2019-05-02T17:10:51.000Z,88,1,1337
+133,2019-10-05T17:50:10.000Z,17:50:10,"Sin anamnesis",2019-10-05T17:50:10.000Z,DESPARASITACION,BRAVECTO,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-10-05T17:50:10.000Z,2019-10-05T17:50:10.000Z,88,1,1337
+134,2019-11-16T13:35:58.000Z,13:35:58,"Sin anamnesis",2019-11-16T13:35:58.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-11-16T13:35:58.000Z,2019-11-16T13:35:58.000Z,88,1,1337
+135,2020-01-06T18:37:45.000Z,18:37:45,"Sin anamnesis",2020-01-06T18:37:45.000Z,DESPARASITACION,BRAVECTO,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-01-06T18:37:45.000Z,2020-01-06T18:37:45.000Z,88,1,1337
+136,2020-05-02T17:17:08.000Z,17:17:08,"Sin anamnesis",2020-05-02T17:17:08.000Z,VACUNA,KC,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-05-02T17:17:08.000Z,2020-05-02T17:17:08.000Z,88,1,1337
+137,2021-07-03T18:44:21.000Z,18:44:21,"Sin anamnesis",2021-07-03T18:44:21.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-07-03T18:44:21.000Z,2021-07-03T18:44:21.000Z,88,1,1337
+138,2021-07-24T14:43:52.000Z,14:43:52,"Sin anamnesis",2021-07-24T14:43:52.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-07-24T14:43:52.000Z,2021-07-24T14:43:52.000Z,88,1,1337
+139,2021-07-24T17:31:22.000Z,17:31:22,"Comienzo con tratamiento de T4
+Índice debe llegar a 10",2021-07-24T17:31:22.000Z,"Consulta general","Sin tratamiento",38,12.5,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-07-24T17:31:22.000Z,2021-07-24T17:31:22.000Z,88,1,1337
+140,2021-09-11T21:46:46.000Z,21:46:46,"Sin anamnesis",2021-09-11T21:46:46.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-09-11T21:46:46.000Z,2021-09-11T21:46:46.000Z,88,1,1337
+141,2022-11-26T13:43:32.000Z,13:43:32,"Sin anamnesis",2022-11-26T13:43:32.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-11-26T13:43:32.000Z,2022-11-26T13:43:32.000Z,88,1,1337
+142,2024-07-08T17:45:41.000Z,17:45:41,"MC: Vino previamente por claudicacion en miembro anterior izquierdo
+Se le indicó Previcox, comenzó con diarrea y cortó
+El nota que claudica mas",2024-07-08T17:45:41.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-07-08T17:45:41.000Z,2024-07-08T17:45:41.000Z,90,1,1337
+143,2018-06-15T15:18:58.000Z,15:18:58,"Sin anamnesis",2018-06-15T15:18:58.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-15T15:18:58.000Z,2018-06-15T15:18:58.000Z,93,1,1339
+144,2018-06-13T17:23:31.000Z,17:23:31,"Sin anamnesis",2018-06-13T17:23:31.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-13T17:23:31.000Z,2018-06-13T17:23:31.000Z,95,1,1339
+145,2018-06-15T15:19:38.000Z,15:19:38,"Sin anamnesis",2018-06-15T15:19:38.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-15T15:19:38.000Z,2018-06-15T15:19:38.000Z,95,1,1339
+146,2018-05-22T13:42:03.000Z,13:42:03,"Sin anamnesis",2018-05-22T13:42:03.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-22T13:42:03.000Z,2018-05-22T13:42:03.000Z,98,1,1370
+147,2018-06-13T20:27:51.000Z,20:27:51,"SE LE REALIZA LAPAROTOMIA EXPLORATORIA, ELIMINANDO EL BAZO YA QUE SE ENCUENTRA LA PRESENCIA DE TUMORACIONES (PESO 2.2 KG). QUEDAN MUESTRAS EN FORMOL ESPERANDO RESOLUCION DEL PROPIETARIO.",2018-06-13T20:27:51.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-13T20:27:51.000Z,2018-06-13T20:27:51.000Z,98,1,1370
+148,2018-07-23T18:36:28.000Z,18:36:28,"Sin anamnesis",2018-07-23T18:36:28.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-07-23T18:36:28.000Z,2018-07-23T18:36:28.000Z,100,1,1370
+149,2018-07-23T18:51:44.000Z,18:51:44,"PRESENTA PROBLEMAS PARA RESPIRAR Y ESTORNUDA.
+SE AUSCULTAN PULMONES CON CONTENIDO.... SE LE ADMINISTRA, ENRO POR 10 DIAS Y SE LE DA UN INYECTABLE DE METILPREDNISOLONA.",2018-07-23T18:51:44.000Z,"Consulta general","Sin tratamiento",38.8,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-07-23T18:51:44.000Z,2018-07-23T18:51:44.000Z,103,1,1370
+150,2018-09-11T17:25:47.000Z,17:25:47,"SE PRESENTA SIN GANAS DE COMER HACE 2 DIAS Y NO TOMA AGUA....
+A LA AUSCULTACION PULMONES CON CONTENIDO Y 39.5 DE TEMP
+SE LE ADMINISTRA DIPIRONA CADA 12 HS Y MARBO POR 10 DIAS",2018-09-11T17:25:47.000Z,"Consulta general","Sin tratamiento",39.5,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-09-11T17:25:47.000Z,2018-09-11T17:25:47.000Z,104,1,1370
+151,2018-05-22T14:10:12.000Z,14:10:12,"Sin anamnesis",2018-05-22T14:10:12.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-22T14:10:12.000Z,2018-05-22T14:10:12.000Z,106,1,1372
+152,2022-06-30T14:19:30.000Z,14:19:30,"consulta por otitis oido izquierdo. Eritema , edema. Sin secreción . 
+eosotic y cortavance",2022-06-30T14:19:30.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-06-30T14:19:30.000Z,2022-06-30T14:19:30.000Z,106,1,1372
+153,2018-05-22T16:34:24.000Z,16:34:24,"Sin anamnesis",2018-05-22T16:34:24.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-22T16:34:24.000Z,2018-05-22T16:34:24.000Z,108,1,1374
+154,2018-05-23T14:01:28.000Z,14:01:28,"Sin anamnesis",2018-05-23T14:01:28.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-23T14:01:28.000Z,2018-05-23T14:01:28.000Z,109,1,1452
+155,2018-06-28T14:32:30.000Z,14:32:30,"Sin anamnesis",2018-06-28T14:32:30.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-28T14:32:30.000Z,2018-06-28T14:32:30.000Z,109,1,1452
+156,2018-05-23T15:58:59.000Z,15:58:59,"Sin anamnesis",2018-05-23T15:58:59.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-23T15:58:59.000Z,2018-05-23T15:58:59.000Z,110,1,1543
+157,2020-01-27T19:27:47.000Z,19:27:47,"SE PRESETNA CON CONJUNTIVITIS Y DIARREA
+TEST DE SHIRMER 8MM 
+SE LE ENVIA CICLOSPORINA AL 1 % 
+INTESTINAL DE RC POR 3 DIAS",2020-01-27T19:27:47.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-01-27T19:27:47.000Z,2020-01-27T19:27:47.000Z,112,1,1543
+158,2020-06-16T20:44:59.000Z,20:44:59,"esta con tratamiento artrosico, recibe meloxi cada 24hs",2020-06-16T20:44:59.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-06-16T20:44:59.000Z,2020-06-16T20:44:59.000Z,112,1,1543
+159,2020-12-03T17:18:26.000Z,17:18:26,"Sin anamnesis",2020-12-03T17:18:26.000Z,VACUNA,Doble,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-12-03T17:18:26.000Z,2020-12-03T17:18:26.000Z,114,1,1543
+160,2023-04-11T15:24:06.000Z,15:24:06,"Sin anamnesis",2023-04-11T15:24:06.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-04-11T15:24:06.000Z,2023-04-11T15:24:06.000Z,114,1,1543
+161,2018-05-24T18:33:14.000Z,18:33:14,"Sin anamnesis",2018-05-24T18:33:14.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-24T18:33:14.000Z,2018-05-24T18:33:14.000Z,116,1,1624
+162,2018-05-24T21:10:59.000Z,21:10:59,"SE LES REALIZO OVARIECTOMIA S/P SE LES ENVIA ANALGESIA POR 4 DIAS.",2018-05-24T21:10:59.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-24T21:10:59.000Z,2018-05-24T21:10:59.000Z,116,1,1624
+163,2018-06-27T14:52:24.000Z,14:52:24,"Sin anamnesis",2018-06-27T14:52:24.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-27T14:52:24.000Z,2018-06-27T14:52:24.000Z,116,1,1624
+164,2019-08-01T14:43:10.000Z,14:43:10,"Sin anamnesis",2019-08-01T14:43:10.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-08-01T14:43:10.000Z,2019-08-01T14:43:10.000Z,116,1,1624
+165,2018-05-24T18:34:22.000Z,18:34:22,"Sin anamnesis",2018-05-24T18:34:22.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-24T18:34:22.000Z,2018-05-24T18:34:22.000Z,118,1,1624
+166,2018-06-27T14:52:53.000Z,14:52:53,"Sin anamnesis",2018-06-27T14:52:53.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-27T14:52:53.000Z,2018-06-27T14:52:53.000Z,118,1,1624
+167,2019-08-01T14:42:05.000Z,14:42:05,"Sin anamnesis",2019-08-01T14:42:05.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-08-01T14:42:05.000Z,2019-08-01T14:42:05.000Z,118,1,1624
+168,2019-05-08T21:03:41.000Z,21:03:41,"Sin anamnesis",2019-05-08T21:03:41.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-05-08T21:03:41.000Z,2019-05-08T21:03:41.000Z,120,1,1638
+169,2020-08-03T16:19:36.000Z,16:19:36,"Sin anamnesis",2020-08-03T16:19:36.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-08-03T16:19:36.000Z,2020-08-03T16:19:36.000Z,120,1,1638
+170,2018-05-24T19:32:39.000Z,19:32:39,"SE PRESENTA CON DOLOR ABDOMINAL DIFUSO, SIN OTRA SINTOMATOLOGIA (NO SABE SI VOMITA O TIENE DIARREA.
+TRATAMIENTO: PROPANTELINA 2 CP CADA 24HS POR 4 DIAS Y DIETA.",2018-05-24T19:32:39.000Z,"Consulta general","Sin tratamiento",38.4,22,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-24T19:32:39.000Z,2018-05-24T19:32:39.000Z,122,1,1640
+171,2019-10-23T15:22:51.000Z,15:22:51,"Sin anamnesis",2019-10-23T15:22:51.000Z,DESPARASITACION,BRAVECTO,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-10-23T15:22:51.000Z,2019-10-23T15:22:51.000Z,122,1,1640
+172,2021-09-27T20:22:27.000Z,20:22:27,"Sin anamnesis",2021-09-27T20:22:27.000Z,EXAMEN,"Analisis de Laboratorio Perfil renal y lipídico",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-09-27T20:22:27.000Z,2021-09-27T20:22:27.000Z,122,1,1640
+173,2021-09-27T20:27:00.000Z,20:27:00,"Sin anamnesis",2021-09-27T20:27:00.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-09-27T20:27:00.000Z,2021-09-27T20:27:00.000Z,122,1,1640
+174,2019-05-21T12:00:00.000Z,12:00:00,"MC  VOMITOS DECAIMIENTO , ANOREXIA
+DOLOR A NIBEL ABDOMINAL ANTERIOR  GANGLIOS Y MUCOSAS NORMALES NO SE DESTACA NADA IMPORTANTE
+CERENIA
+DIPIRONA Y AMOXICILINA CLAVULANICO",2019-05-21T12:00:00.000Z,"Consulta general","Sin tratamiento",40,27,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-05-21T12:00:00.000Z,2019-05-21T12:00:00.000Z,124,1,1640
+175,2019-05-22T12:00:00.000Z,12:00:00,"NO PRESENTO MAS VOMITOS Y COMENZO A COMER
+SE PRESCRIBE :
+BUSCAPINA DIPIRONA Y DIETA HEPATICA
+SE REALIZA ESTRACCION DE SANGRE  FUNCIONAL HEPATICO Y RENAL",2019-05-22T12:00:00.000Z,"Consulta general","Sin tratamiento",38.5,27,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-05-22T12:00:00.000Z,2019-05-22T12:00:00.000Z,124,1,1640
+176,2019-05-23T14:37:45.000Z,14:37:45,"COMENZO A COMER NORMALMENTE  DEBE CONTINUAR CON LA DIETA
+SE ESPERAN RESULTADOS",2019-05-23T14:37:45.000Z,"Consulta general","Sin tratamiento",38,27,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-05-23T14:37:45.000Z,2019-05-23T14:37:45.000Z,124,1,1640
+177,2019-05-24T18:28:34.000Z,18:28:34,"Sin anamnesis",2019-05-24T18:28:34.000Z,EXAMEN,"Analisis de Laboratorio LACLIVET : FUNCIONAL HEPATICO
+                    HEMOGRAMA
+ALTERADOS VALORES EN HIGADO Y NEUTROFILIA",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-05-24T18:28:34.000Z,2019-05-24T18:28:34.000Z,124,1,1640
+178,2019-10-23T15:24:01.000Z,15:24:01,"Sin anamnesis",2019-10-23T15:24:01.000Z,DESPARASITACION,BRAVECTO,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-10-23T15:24:01.000Z,2019-10-23T15:24:01.000Z,124,1,1640
+179,2020-01-11T17:19:54.000Z,17:19:54,"fue atropellada por un auto, estuvo unos minutos con el auto encima
+llega con 85 saturacion de O2 y 115 ppm
+muy agitada, se le administra diacepam y dexa
+se continua con goteo continuo de tiopental
+mejora  la saturacion  llegando y mnateniendola en 93
+queda internada",2020-01-11T17:19:54.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-01-11T17:19:54.000Z,2020-01-11T17:19:54.000Z,124,1,1640
+180,2021-02-04T18:18:53.000Z,18:18:53,"Mc: alopecia focalizada en cola, ademas pustulas pequeñas.
+
+Tto: clorhexidina y frontline plus",2021-02-04T18:18:53.000Z,"Consulta general","Sin tratamiento",0,20,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-02-04T18:18:53.000Z,2021-02-04T18:18:53.000Z,126,1,1640
+181,2018-05-24T19:49:05.000Z,19:49:05,"Sin anamnesis",2018-05-24T19:49:05.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-24T19:49:05.000Z,2018-05-24T19:49:05.000Z,127,1,1643
+182,2018-05-24T19:57:08.000Z,19:57:08,"Sin anamnesis",2018-05-24T19:57:08.000Z,"VACUNA, DESPARASITACION","SEXTUPLE, ZIPIRAN",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-24T19:57:08.000Z,2018-05-24T19:57:08.000Z,127,1,1643
+183,2019-12-20T22:23:23.000Z,22:23:23,"SE PRESENTA CON UN PROBLEMA OCULAR.... EL OJO ESTA IRRITADO, SE OBSERVA EN EL PARPADO INFERIOR UNA PEQUEÑA SOLUCION DE CONTINUIDAD, ES FACTIBLE QUE SE HAYA RASCADO A PARTIR DE ESA LESION O QUE SE LA HAYA HECHO ELLA RASCANDOSE.
+SE LE ENVIA OCUBIOTIC CON ESTEROIDES POR 7 DIAS",2019-12-20T22:23:23.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-12-20T22:23:23.000Z,2019-12-20T22:23:23.000Z,127,1,1643
+184,2019-12-20T22:23:23.000Z,22:23:23,"SE PRESENTA CON UN PROBLEMA OCULAR.... EL OJO ESTA IRRITADO, SE OBSERVA EN EL PARPADO INFERIOR UNA PEQUEÑA SOLUCION DE CONTINUIDAD, ES FACTIBLE QUE SE HAYA RASCADO A PARTIR DE ESA LESION O QUE SE LA HAYA HECHO ELLA RASCANDOSE.
+SE LE ENVIA OCUBIOTIC CON ESTEROIDES POR 7 DIAS",2019-12-20T22:23:23.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-12-20T22:23:23.000Z,2019-12-20T22:23:23.000Z,127,1,1643
+185,2019-12-20T22:27:07.000Z,22:27:07,"Sin anamnesis",2019-12-20T22:27:07.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-12-20T22:27:07.000Z,2019-12-20T22:27:07.000Z,127,1,1643
+186,2018-05-24T21:26:37.000Z,21:26:37,"Sin anamnesis",2018-05-24T21:26:37.000Z,"VACUNA, DESPARASITACION","Rabia, SANIUM PLUS",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-24T21:26:37.000Z,2018-05-24T21:26:37.000Z,129,1,1652
+187,2018-07-05T21:21:28.000Z,21:21:28,"ORQUIECTOMIA S/P",2018-07-05T21:21:28.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-07-05T21:21:28.000Z,2018-07-05T21:21:28.000Z,129,1,1652
+188,2023-06-08T19:26:45.000Z,19:26:45,"amaneció dolorido y no quería salir de la cucha
+le administró un ketofen pos y a las 2 hs notó mejoría
+es muy ansioso y no logra ingresar a la veterinaria 
+al observarlo caminar vemos claudicación de mpi 
+se evidencia insetabilidad en art femorotibiorotuliana izq 
+la derecha no se logra palpar 
+sugiero tto analgésico de 10 a 15 días  y en caso de que requiera volver por no evolución comunicarse para recetarle GABAPENTINA/PREGABALINA 50 mg/kg para contención farmacológica previo consulta",2023-06-08T19:26:45.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-06-08T19:26:45.000Z,2023-06-08T19:26:45.000Z,131,1,1655
+189,2024-06-22T15:47:37.000Z,15:47:37,"Sin anamnesis",2024-06-22T15:47:37.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-06-22T15:47:37.000Z,2024-06-22T15:47:37.000Z,131,1,1655
+190,2019-03-25T21:47:14.000Z,21:47:14,"Sin anamnesis",2019-03-25T21:47:14.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-03-25T21:47:14.000Z,2019-03-25T21:47:14.000Z,133,1,1655
+191,2020-04-03T21:36:15.000Z,21:36:15,"Sin anamnesis",2020-04-03T21:36:15.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-04-03T21:36:15.000Z,2020-04-03T21:36:15.000Z,133,1,1655
+192,2023-06-08T19:28:11.000Z,19:28:11,"Sin anamnesis",2023-06-08T19:28:11.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-06-08T19:28:11.000Z,2023-06-08T19:28:11.000Z,133,1,1655
+193,2024-06-22T15:08:39.000Z,15:08:39,"Sin anamnesis",2024-06-22T15:08:39.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-06-22T15:08:39.000Z,2024-06-22T15:08:39.000Z,133,1,1655
+194,2024-06-22T15:46:40.000Z,15:46:40,"Sin anamnesis",2024-06-22T15:46:40.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-06-22T15:46:40.000Z,2024-06-22T15:46:40.000Z,133,1,1655
+195,2018-05-25T14:05:48.000Z,14:05:48,"Sin anamnesis",2018-05-25T14:05:48.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-25T14:05:48.000Z,2018-05-25T14:05:48.000Z,135,1,1658
+196,2019-04-23T15:51:43.000Z,15:51:43,"presenta dermatitis humedas generalizadas en la zona de ingle 
+se le envia cefalexina 500 por 10 dias cada 12 hs",2019-04-23T15:51:43.000Z,"Consulta general","Sin tratamiento",0,33,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-04-23T15:51:43.000Z,2019-04-23T15:51:43.000Z,135,1,1658
+197,2019-05-27T15:08:03.000Z,15:08:03,"Sin anamnesis",2019-05-27T15:08:03.000Z,VACUNA,Cuadruple,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-05-27T15:08:03.000Z,2019-05-27T15:08:03.000Z,135,1,1658
+198,2019-04-03T19:33:52.000Z,19:33:52,"Sin anamnesis",2019-04-03T19:33:52.000Z,VACUNA,"Triple Felina",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-04-03T19:33:52.000Z,2019-04-03T19:33:52.000Z,137,1,1661
+199,2019-12-18T12:00:00.000Z,12:00:00,"mc  CONJUNTIVITIS
+CORNEA CON PRESENCIA DE PEQUEÑA ULCERA CENTRAL CON REACCIÓN PERIFÉRICA PRODUCTIVA.
+FOTOFOBIA Y MOLESTIA 
+TRATAMIENTO CONSERVADOR PARA LUEGO VER SI SE HACE CIRUGIA",2019-12-18T12:00:00.000Z,"Consulta general","Sin tratamiento",38,3,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-12-18T12:00:00.000Z,2019-12-18T12:00:00.000Z,137,1,1661
+200,2020-01-08T12:00:00.000Z,12:00:00,"SE REGISTRA MEJORIA EN GENERAL DEL PJP. CONTINUA LA MO9LESTIA Y SE OBSERVA SECUESTRO CORNEAL
+REALIZAMOS ANALISIS PARA CIRUGIA
+LOS ANÁLISIS DAN COMO RESULTADO VALORES DE FALLA RENAL RENAL INICIAL Y ALGUNOS VALORES DE HIGADO 
+SE RECOMIENDA POSPONER CIRUGIA E INICIAR TRATAMIENTO ALIMENTARIO.",2020-01-08T12:00:00.000Z,"Consulta general","Sin tratamiento",38,3,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-01-08T12:00:00.000Z,2020-01-08T12:00:00.000Z,137,1,1661
+201,2020-07-11T17:01:57.000Z,17:01:57,"Sin anamnesis",2020-07-11T17:01:57.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-07-11T17:01:57.000Z,2020-07-11T17:01:57.000Z,137,1,1661
+202,2021-10-04T14:54:34.000Z,14:54:34,"concurre por dermatits miliar
+confortis
+atriven y convenia",2021-10-04T14:54:34.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-10-04T14:54:34.000Z,2021-10-04T14:54:34.000Z,137,1,1661
+203,2021-10-12T14:25:38.000Z,14:25:38,"MC VOMITOS Y DIFICULTAD RESPIRATORIA
+AL EXAMEN :taquipnea  disnea expiratoria, mucosas palidas estertores ralos -
+algo de perdida de liquido por boca y nariz rosado. distención abdominal.
+P02  67  FC 145
+TERAPIA CON O2
+SE REALIZA ESTUDIO RX
+DEXAMETASONA Y FUROSEMIDE 
+SE ADMINISTRA CERENIA",2021-10-12T14:25:38.000Z,"Consulta general","Sin tratamiento",37,4,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-10-12T14:25:38.000Z,2021-10-12T14:25:38.000Z,137,1,1661
+204,2021-10-12T20:28:34.000Z,20:28:34,"Sin anamnesis",2021-10-12T20:28:34.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-10-12T20:28:34.000Z,2021-10-12T20:28:34.000Z,137,1,1661
+205,2018-05-25T21:08:25.000Z,21:08:25,"ORQUIECTOMIA S/P",2018-05-25T21:08:25.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-25T21:08:25.000Z,2018-05-25T21:08:25.000Z,139,1,1697
+206,2018-07-02T15:53:37.000Z,15:53:37,"Sin anamnesis",2018-07-02T15:53:37.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-07-02T15:53:37.000Z,2018-07-02T15:53:37.000Z,141,1,1697
+207,2018-05-25T21:23:53.000Z,21:23:53,"FRACTURA DISTAL DE HUMERO, SE LE REALIZA FIJACION EXTERNA",2018-05-25T21:23:53.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-25T21:23:53.000Z,2018-05-25T21:23:53.000Z,143,1,1700
+208,2018-05-26T15:17:33.000Z,15:17:33,"Sin anamnesis",2018-05-26T15:17:33.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-26T15:17:33.000Z,2018-05-26T15:17:33.000Z,144,1,1703
+209,2018-05-26T17:27:28.000Z,17:27:28,"Sin anamnesis",2018-05-26T17:27:28.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-26T17:27:28.000Z,2018-05-26T17:27:28.000Z,146,1,1710
+210,2019-12-21T18:04:56.000Z,18:04:56,"Sin anamnesis",2019-12-21T18:04:56.000Z,DESPARASITACION,"NEXGARD SPECTRA",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-12-21T18:04:56.000Z,2019-12-21T18:04:56.000Z,146,1,1710
+211,2018-05-29T20:44:21.000Z,20:44:21,"SE PRESENTA CON CONVULSIONES....
+SE LE ADMINISTRA FENOBARBITAL (1/4 C/12HS)
+VUELVE A CONTROL EL SABADO",2018-05-29T20:44:21.000Z,"Consulta general","Sin tratamiento",0,6.95,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-29T20:44:21.000Z,2018-05-29T20:44:21.000Z,147,1,1720
+212,2018-06-11T17:18:46.000Z,17:18:46,"se presenta a control 
+no tuvo mas convulsiones
+presenta sindrome de disfuncion cognitiva
+continua con
+karsivan
+geripet
+ginkgo
+comienza con Selegilina",2018-06-11T17:18:46.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-11T17:18:46.000Z,2018-06-11T17:18:46.000Z,147,1,1720
+213,2018-07-16T14:58:57.000Z,14:58:57,"Sin anamnesis",2018-07-16T14:58:57.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-07-16T14:58:57.000Z,2018-07-16T14:58:57.000Z,148,1,1721
+214,2018-05-26T20:03:40.000Z,20:03:40,"MPI LESION DE TENDONES LATERALES DE LA ARTICULACION METATARSO TIBIAL.
+SE LE REALIZA SUTURA DE HERIDA Y VENDAJE DE LA ZONA PARA DARLE ESTABILIDAD
+SE LE ENVIA CLAVASEPTIN 500 Y PREVICOX
+VUELVE A CAMBIO DE VENDAJE EL MARTES 29-5-18",2018-05-26T20:03:40.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-26T20:03:40.000Z,2018-05-26T20:03:40.000Z,149,1,1722
+215,2018-05-26T20:44:08.000Z,20:44:08,"Sin anamnesis",2018-05-26T20:44:08.000Z,"VACUNA, DESPARASITACION","SEXTUPLE, APRAX",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-26T20:44:08.000Z,2018-05-26T20:44:08.000Z,150,1,1723
+216,2021-02-08T17:57:55.000Z,17:57:55,"Mc: mlestia ocular derecha y estreñimiento de un dia.
+
+Se evidencia arena en recto.
+En ojo derecho se evidencia minima ulcera corneal.
+
+Tto: dropstar o lagricel cada 8 horas por 10 dias y dieta con fibra para aumentar transito.",2021-02-08T17:57:55.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-02-08T17:57:55.000Z,2021-02-08T17:57:55.000Z,150,1,1723
+217,2023-02-09T17:55:35.000Z,17:55:35,"Mc: dificultad para incorporarse, cluadicacion al caminar.
+Al eop de osteartiuclar se evidencia molestia en ambas rodillas, molestia en columna a nivel de region toraco lumbar, molestia en cervicales y contractura de ambos triceps.
+Se extra sangre para realizar hemograma y chem 15, en el hemograma se ve una leve neutropenia y en la bioquimica una azotemia. Por lo que se solicita orina. 
+
+Tto: previcox 227mg 3/4 comp por dia po 15 dias y flexapet, cambio de alimentacion a una libre de granos, prosum.",2023-02-09T17:55:35.000Z,"Consulta general","Sin tratamiento",0,25,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-02-09T17:55:35.000Z,2023-02-09T17:55:35.000Z,151,1,1723
+218,2023-02-11T18:15:30.000Z,18:15:30,"Sin anamnesis",2023-02-11T18:15:30.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-02-11T18:15:30.000Z,2023-02-11T18:15:30.000Z,151,1,1723
+219,2023-02-11T18:16:44.000Z,18:16:44,"Se diagnostica insuficiencia renal clase 2, se indica comenzar con azodyl, alimentación natural o ración sin granos y omega 3.",2023-02-11T18:16:44.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-02-11T18:16:44.000Z,2023-02-11T18:16:44.000Z,151,1,1723
+220,2023-04-04T19:41:00.000Z,19:41:00,"Mc: vomitos en la mañana. No esta queriendo comer la alimentación natural con muchas ganas. Materia fecal algo pastosa.
+Presenta molestia en epigastrio y mesogastrio. 
+
+Tto: cerenia y ranitidina inyectable, gelsur 5 ml cada 12 horas, ranitidina 50mg 1 comp cada 12 horas. Volver mañana en ayunas para repetir hemograma y chem 10.",2023-04-04T19:41:00.000Z,"Consulta general","Sin tratamiento",38.5,24,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-04-04T19:41:00.000Z,2023-04-04T19:41:00.000Z,151,1,1723
+221,2023-04-05T19:31:37.000Z,19:31:37,"Sin anamnesis",2023-04-05T19:31:37.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-04-05T19:31:37.000Z,2023-04-05T19:31:37.000Z,151,1,1723
+222,2023-04-05T19:35:46.000Z,19:35:46,"Sin anamnesis",2023-04-05T19:35:46.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-04-05T19:35:46.000Z,2023-04-05T19:35:46.000Z,151,1,1723
+223,2023-04-05T20:46:41.000Z,20:46:41,"Se imprime dieta renal, se indica 3 ml de hemolitan y se indica comenzar con 2 capsulas de azodyl am y 1 pm. Control en 1 mes.",2023-04-05T20:46:41.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-04-05T20:46:41.000Z,2023-04-05T20:46:41.000Z,151,1,1723
+224,2023-05-10T12:00:00.000Z,12:00:00,"Se indica continuar con azodyl 3 cap por día, dieta y hemolitan. Ademas si no tolera el omega 3, comenzar con geriox. Se indica recoger orina tambien.",2023-05-10T12:00:00.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-05-10T12:00:00.000Z,2023-05-10T12:00:00.000Z,151,1,1723
+225,2023-05-09T12:00:00.000Z,12:00:00,"Sin anamnesis",2023-05-09T12:00:00.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-05-09T12:00:00.000Z,2023-05-09T12:00:00.000Z,151,1,1723
+226,2023-05-13T15:21:11.000Z,15:21:11,"Se encuentra hematuria y leucocitosis leve, pero se opta por no tratar con antibioticos ya que no presenta signologia clinica urinaria. 
+Tto: geriox 1 comp cada 12 horas, probioticos, continuar con ranitidina. Se indica ecografia abdominal.",2023-05-13T15:21:11.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-05-13T15:21:11.000Z,2023-05-13T15:21:11.000Z,151,1,1723
+227,2023-05-13T15:47:14.000Z,15:47:14,"Sin anamnesis",2023-05-13T15:47:14.000Z,EXAMEN,"EXAMEN DE ORINA 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-05-13T15:47:14.000Z,2023-05-13T15:47:14.000Z,151,1,1723
+228,2023-05-17T18:40:07.000Z,18:40:07,"Sin anamnesis",2023-05-17T18:40:07.000Z,EXAMEN,"Ecografia 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-05-17T18:40:07.000Z,2023-05-17T18:40:07.000Z,151,1,1723
+229,2023-05-17T19:23:16.000Z,19:23:16,"Se indica comenzar con previcox por 7 dias y gotas de arandano rojo.",2023-05-17T19:23:16.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-05-17T19:23:16.000Z,2023-05-17T19:23:16.000Z,151,1,1723
+230,2023-05-23T14:20:00.000Z,14:20:00,"Hace 3 días viene tomando previcox. Hoy vomito, no quiso comer y tuvo diarrea. 
+
+Tto: fluidoterapia, cerenia, dipirona, metabolace, hematon, ranitidina, hepatone",2023-05-23T14:20:00.000Z,"Consulta general","Sin tratamiento",0,23.85,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-05-23T14:20:00.000Z,2023-05-23T14:20:00.000Z,151,1,1723
+231,2023-06-02T16:22:26.000Z,16:22:26,"la nota decaida y no quiso comer 
+aplicamos cerenia y dipirona ya que es su analgesia habitual
+sugiero vigilar y conciderar repetir Analisis",2023-06-02T16:22:26.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-06-02T16:22:26.000Z,2023-06-02T16:22:26.000Z,151,1,1723
+232,2023-06-08T17:01:15.000Z,17:01:15,"Disorexia y tenesmo.
+Se evacuan sacos anales.
+Se realiza fluidoterapia ringer lactacto, metabolace, b1, b12, cerenia, prothemai.",2023-06-08T17:01:15.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-06-08T17:01:15.000Z,2023-06-08T17:01:15.000Z,151,1,1723
+233,2023-06-09T16:57:29.000Z,16:57:29,"Se repite tto intravenoso y s ecomienza con cannabis LOTE M 8 gotas cada 12 horas",2023-06-09T16:57:29.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-06-09T16:57:29.000Z,2023-06-09T16:57:29.000Z,151,1,1723
+234,2018-05-28T14:07:54.000Z,14:07:54,"Sin anamnesis",2018-05-28T14:07:54.000Z,VACUNA,"PARBO /CORONA/DISTEMPER",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-28T14:07:54.000Z,2018-05-28T14:07:54.000Z,152,1,1724
+235,2018-06-23T20:24:36.000Z,20:24:36,"Sin anamnesis",2018-06-23T20:24:36.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-23T20:24:36.000Z,2018-06-23T20:24:36.000Z,152,1,1724
+236,2019-12-09T12:00:00.000Z,12:00:00,"M.A EDEMATIZADO, FLEMON? DOLOR
+ANTINFLAMATORIO Y ANTIBIOTICO  VOLVER POR PLACA",2019-12-09T12:00:00.000Z,"Consulta general","Sin tratamiento",38,5,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-12-09T12:00:00.000Z,2019-12-09T12:00:00.000Z,153,1,1725
+237,2019-12-12T21:23:44.000Z,21:23:44,"PLACA
+PREVICOX 57 MG 1/2 COMP POR DIA",2019-12-12T21:23:44.000Z,"Consulta general","Sin tratamiento",38,5,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-12-12T21:23:44.000Z,2019-12-12T21:23:44.000Z,153,1,1725
+238,2018-05-28T18:39:47.000Z,18:39:47,"Sin anamnesis",2018-05-28T18:39:47.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-28T18:39:47.000Z,2018-05-28T18:39:47.000Z,155,1,1726
+239,2022-06-29T16:19:48.000Z,16:19:48,"extraigo sangre para perfil lipidico y t4",2022-06-29T16:19:48.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-06-29T16:19:48.000Z,2022-06-29T16:19:48.000Z,155,1,1726
+240,2022-07-01T16:39:21.000Z,16:39:21,"Sin anamnesis",2022-07-01T16:39:21.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-07-01T16:39:21.000Z,2022-07-01T16:39:21.000Z,155,1,1726
+241,2022-07-09T19:27:36.000Z,19:27:36,"Sin anamnesis",2022-07-09T19:27:36.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-07-09T19:27:36.000Z,2022-07-09T19:27:36.000Z,155,1,1726
+242,2022-07-13T17:26:06.000Z,17:26:06,"comienza con 0.4 mg t4 c 12 hs
+marcaos control en 5 dias
+en 30 dias evaluar niveles sanguíneos de t4 con 8 hs ayuno 2hs dps de darle la t4",2022-07-13T17:26:06.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-07-13T17:26:06.000Z,2022-07-13T17:26:06.000Z,155,1,1726
+243,2022-07-13T17:27:00.000Z,17:27:00,"Sin anamnesis",2022-07-13T17:27:00.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-07-13T17:27:00.000Z,2022-07-13T17:27:00.000Z,155,1,1726
+244,2022-08-31T15:43:16.000Z,15:43:16,"extraigo sangre para control de t4 y t4 total",2022-08-31T15:43:16.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-08-31T15:43:16.000Z,2022-08-31T15:43:16.000Z,155,1,1726
+245,2022-09-03T17:09:07.000Z,17:09:07,"Sin anamnesis",2022-09-03T17:09:07.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-09-03T17:09:07.000Z,2022-09-03T17:09:07.000Z,155,1,1726
+246,2022-09-09T15:33:49.000Z,15:33:49,"Sin anamnesis",2022-09-09T15:33:49.000Z,EXAMEN,"Analisis de Laboratorio PERFIL TIROIDEO LACLIVET",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-09-09T15:33:49.000Z,2022-09-09T15:33:49.000Z,155,1,1726
+247,2022-09-14T14:54:48.000Z,14:54:48,"Sin anamnesis",2022-09-14T14:54:48.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-09-14T14:54:48.000Z,2022-09-14T14:54:48.000Z,155,1,1726
+248,2023-02-20T18:24:05.000Z,18:24:05,"Mc: consulta por neoformación redondeada, alopecica y ulcerada, de aprox 2cm de diametro,  no adherida a planos profundos, localizada en región de la pierna. Evolución de 2 a 3 años, pero en los últimos días aumentó de tamaño y se ulceró.
+Se realiza citología.
+
+
+Tto: prednislona 20mg 1 comp por dia.",2023-02-20T18:24:05.000Z,"Consulta general","Sin tratamiento",0,23,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-02-20T18:24:05.000Z,2023-02-20T18:24:05.000Z,155,1,1726
+249,2023-02-21T16:03:51.000Z,16:03:51,"CITOLOGIA  MASTOCITOMA",2023-02-21T16:03:51.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-02-21T16:03:51.000Z,2023-02-21T16:03:51.000Z,155,1,1726
+250,2023-03-10T15:45:08.000Z,15:45:08,"control retiramos puntos 
+se informa ayuno para control de t4 (con idexx)",2023-03-10T15:45:08.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-03-10T15:45:08.000Z,2023-03-10T15:45:08.000Z,155,1,1726
+251,2023-03-30T22:34:41.000Z,22:34:41,"Sin anamnesis",2023-03-30T22:34:41.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-03-30T22:34:41.000Z,2023-03-30T22:34:41.000Z,155,1,1726
+252,2023-08-08T15:43:47.000Z,15:43:47,"concurre por control analitica y nodulos",2023-08-08T15:43:47.000Z,EXAMEN,"Analisis de Laboratorio chem 15 y t4",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-08-08T15:43:47.000Z,2023-08-08T15:43:47.000Z,155,1,1726
+253,2023-08-10T14:22:04.000Z,14:22:04,"Sin anamnesis",2023-08-10T14:22:04.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-08-10T14:22:04.000Z,2023-08-10T14:22:04.000Z,155,1,1726
+254,2023-08-14T12:00:00.000Z,12:00:00,"comienza proteliv comprimidos",2023-08-14T12:00:00.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-08-14T12:00:00.000Z,2023-08-14T12:00:00.000Z,155,1,1726
+255,2018-05-28T18:41:33.000Z,18:41:33,"Sin anamnesis",2018-05-28T18:41:33.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-28T18:41:33.000Z,2018-05-28T18:41:33.000Z,157,1,1726
+256,2018-05-28T20:23:24.000Z,20:23:24,"SE OBSERVA AL RASPAJE MALASEZZIA Y PIODERMIA
+SE LE ENVIA MICOSEB BAÑOS SEMANALES EN 1 MES OBSERVAR DE VUELTA",2018-05-28T20:23:24.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-28T20:23:24.000Z,2018-05-28T20:23:24.000Z,159,1,1727
+257,2019-06-24T20:06:37.000Z,20:06:37,"PRESENTA LESIONES EN BABILLA Y EN ZONA ENTRADA DE PECHO, PRESETNA ZONAS CON PRESENCIA DE LEVADURAS Y ZONAS ESTAFILOCCOCICAS
+SE LE ENVIA PONER 6A CADA 8HS",2019-06-24T20:06:37.000Z,"Consulta general","Sin tratamiento",0,18.8,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-06-24T20:06:37.000Z,2019-06-24T20:06:37.000Z,159,1,1727
+258,2020-06-16T21:04:37.000Z,21:04:37,"se le extraen papilomas porque se rasca y estaán lesi",2020-06-16T21:04:37.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-06-16T21:04:37.000Z,2020-06-16T21:04:37.000Z,159,1,1727
+259,2020-09-09T14:24:10.000Z,14:24:10,"nodulo interdigital blando con aspecto de nodulo sebaceo 
+analisis prequirurgico",2020-09-09T14:24:10.000Z,"Consulta general","Sin tratamiento",38,20,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-09-09T14:24:10.000Z,2020-09-09T14:24:10.000Z,159,1,1727
+260,2020-09-11T20:32:14.000Z,20:32:14,"Se extrajo una tumoracion a nivel interdigital del MAD 
+
+Tto: 1/2 comprimido previcox 227mg por 6 dias",2020-09-11T20:32:14.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-09-11T20:32:14.000Z,2020-09-11T20:32:14.000Z,159,1,1727
+261,2020-09-16T21:44:14.000Z,21:44:14,"Sin anamnesis",2020-09-16T21:44:14.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-09-16T21:44:14.000Z,2020-09-16T21:44:14.000Z,159,1,1727
+262,2020-09-21T19:26:21.000Z,19:26:21,"Estraccion de sangre para perfil hipotiroideo",2020-09-21T19:26:21.000Z,"Consulta general","Sin tratamiento",38,15,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-09-21T19:26:21.000Z,2020-09-21T19:26:21.000Z,159,1,1727
+263,2020-10-28T18:55:19.000Z,18:55:19,"Piel mejoro, continuar a con dolor articular
+T4
+Previcox",2020-10-28T18:55:19.000Z,"Consulta general","Sin tratamiento",38,19,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-10-28T18:55:19.000Z,2020-10-28T18:55:19.000Z,159,1,1727
+264,2020-12-15T15:19:30.000Z,15:19:30,"nodulo interdigital vuleve
+se comienza con homopatia  cod10840",2020-12-15T15:19:30.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-12-15T15:19:30.000Z,2020-12-15T15:19:30.000Z,159,1,1727
+265,2018-05-28T21:27:12.000Z,21:27:12,"Sin anamnesis",2018-05-28T21:27:12.000Z,DESPARASITACION,"FRONTLINE PLUS",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-28T21:27:12.000Z,2018-05-28T21:27:12.000Z,161,1,1728
+266,2018-06-02T16:59:39.000Z,16:59:39,"Sin anamnesis",2018-06-02T16:59:39.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-02T16:59:39.000Z,2018-06-02T16:59:39.000Z,161,1,1728
+267,2018-06-25T21:39:33.000Z,21:39:33,"Sin anamnesis",2018-06-25T21:39:33.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-25T21:39:33.000Z,2018-06-25T21:39:33.000Z,161,1,1728
+268,2018-10-22T17:32:20.000Z,17:32:20,"Sin anamnesis",2018-10-22T17:32:20.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-10-22T17:32:20.000Z,2018-10-22T17:32:20.000Z,161,1,1728
+269,2018-11-12T21:28:22.000Z,21:28:22,"ORQUICTOMIA 
+SE LE ENVIA PREVICOX 57 MG POR 5 DIAS",2018-11-12T21:28:22.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-11-12T21:28:22.000Z,2018-11-12T21:28:22.000Z,161,1,1728
+270,2018-12-03T21:37:11.000Z,21:37:11,"presenta lesiones alergicas en axila y zona de morro
+ademas presenta conjuntivitis bilateral
+se le envia prednisolona 10mg y ocubiotic con esteroides",2018-12-03T21:37:11.000Z,"Consulta general","Sin tratamiento",0,11.4,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-12-03T21:37:11.000Z,2018-12-03T21:37:11.000Z,161,1,1728
+271,2018-05-28T21:49:01.000Z,21:49:01,"VOMITOS BILIOSOS Y DIARREA
+SIN VACUNAS
+DOLOR ABDOMINAL 
+SE LE DA DOMPER, VUELVE MAÑANA EN LA MAÑANA",2018-05-28T21:49:01.000Z,"Consulta general","Sin tratamiento",38.7,18.9,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-28T21:49:01.000Z,2018-05-28T21:49:01.000Z,163,1,1729
+272,2018-05-29T17:08:50.000Z,17:08:50,"viene a control
+38 4 de temperatura
+no ha querido comer
+un solo vómito
+bien de ánimo
+continúa con diarrea
+se le receta Neoenterofosfalum 3 veces por día dieta casera control en la tarde",2018-05-29T17:08:50.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-29T17:08:50.000Z,2018-05-29T17:08:50.000Z,163,1,1729
+273,2018-05-29T21:00:28.000Z,21:00:28,"sigue con vomitos, le administro cerenia y le doy el toltrazol que no se lo pudieron administrar.
+se la manda hidratacion con hielo ya que los vomitos son luego de la ingestion de agua en grandes cantidades.",2018-05-29T21:00:28.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-29T21:00:28.000Z,2018-05-29T21:00:28.000Z,163,1,1729
+274,2018-06-03T15:03:39.000Z,15:03:39,"EMPIEZA A ALIMENTARSE CON ARROZ Y POLLO, TOLERA EL GATORADE Y AGUA.
+NO DEFECO, BIEN DE ANIMO.",2018-06-03T15:03:39.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-03T15:03:39.000Z,2018-06-03T15:03:39.000Z,163,1,1729
+275,2020-02-11T15:04:55.000Z,15:04:55,"PIODERMIA SUPERFICIAL CON LESIONES DE COLLARIN
+OREJAS SIN LESION
+ALGO DE DERMATITIS PERI ORBITARIA
+CONVENIA 1,8
+OMEGA 3     BAÑOS DE CLORHEXIDINA
+SE ESPERA RESULTADOS DE T4",2020-02-11T15:04:55.000Z,"Consulta general","Sin tratamiento",38,18,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-02-11T15:04:55.000Z,2020-02-11T15:04:55.000Z,167,1,1732
+276,2020-04-28T20:31:57.000Z,20:31:57,"consulta por collarines epidérmicos, uno a nivel de abdomen y otro en parrilla costal.
+Se comienza con dieta de eliminación (hipo de vetcan)",2020-04-28T20:31:57.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-04-28T20:31:57.000Z,2020-04-28T20:31:57.000Z,167,1,1732
+277,2020-06-26T19:08:12.000Z,19:08:12,"Sin anamnesis",2020-06-26T19:08:12.000Z,DESPARASITACION,BRAVECTO,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-06-26T19:08:12.000Z,2020-06-26T19:08:12.000Z,167,1,1732
+278,2020-10-02T17:58:13.000Z,17:58:13,"Sin anamnesis",2020-10-02T17:58:13.000Z,DESPARASITACION,BRAVECTO,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-10-02T17:58:13.000Z,2020-10-02T17:58:13.000Z,167,1,1732
+279,2021-02-12T21:33:35.000Z,21:33:35,"Mc: se presenta a consulta con prurito interdigital y lamido, ademas prurito e inflamacion de comisura labial derecha.
+
+Tto: prednisolona 20mg comp 1 comp por dia por 5 dias. Equilibrio obesity 200 gramos diarios.",2021-02-12T21:33:35.000Z,"Consulta general","Sin tratamiento",0,19.4,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-02-12T21:33:35.000Z,2021-02-12T21:33:35.000Z,167,1,1732
+280,2021-05-22T19:37:12.000Z,19:37:12,"Sin anamnesis",2021-05-22T19:37:12.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-05-22T19:37:12.000Z,2021-05-22T19:37:12.000Z,167,1,1732
+281,2021-08-07T14:00:10.000Z,14:00:10,"consulta por estornudos esporádicos
+tto 0.5 mg/kg prednisona x 3 dias",2021-08-07T14:00:10.000Z,"Consulta general","Sin tratamiento",38.5,20,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-08-07T14:00:10.000Z,2021-08-07T14:00:10.000Z,167,1,1732
+282,2021-09-11T20:45:16.000Z,20:45:16,"Sin anamnesis",2021-09-11T20:45:16.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-09-11T20:45:16.000Z,2021-09-11T20:45:16.000Z,167,1,1732
+283,2021-11-02T15:26:15.000Z,15:26:15,"toma de muestra piel y costras
+limpieza de lesiones con clhorexidina al 4 % en el consultorio
+convenia inyectable 2 cm
+clhorexidin plus en lesiones
+1 baño por semana con clhorexidina",2021-11-02T15:26:15.000Z,"Consulta general","Sin tratamiento",0,19.7,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-11-02T15:26:15.000Z,2021-11-02T15:26:15.000Z,167,1,1732
+284,2021-11-15T20:49:36.000Z,20:49:36,"Mc: equimosis en abdomen ventral de aproz 3 cm de diametro, detras de la parrilla costa, y dos mas pequeñas al rededor.
+Buen animo, matera fecal y orina normal
+
+Tto: dexametasona inyectable. Se sugiere evaluar y volver en 48 horas",2021-11-15T20:49:36.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-11-15T20:49:36.000Z,2021-11-15T20:49:36.000Z,167,1,1732
+285,2022-06-09T18:30:51.000Z,18:30:51,"Convenia y dexametasona",2022-06-09T18:30:51.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-06-09T18:30:51.000Z,2022-06-09T18:30:51.000Z,167,1,1732
+286,2022-06-09T18:40:08.000Z,18:40:08,"se le adminstra convenia",2022-06-09T18:40:08.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-06-09T18:40:08.000Z,2022-06-09T18:40:08.000Z,167,1,1732
+287,2023-06-17T16:18:07.000Z,16:18:07,"El lunes fue a bañarse a laika
+Alli le encontraron un nodulo de 0.5x0.5cm le recomendaron hacerle ecografia
+En la eco abdominal le encontraron un nodulo de 3x9 mm en el bazo (milimetros), daños degenerativos en riñón y mucosa gastrica y duodenal
+Ademas tiene un diagnóstico de "vejez prematura" de neurólogo para lo cual toma vit E, omega,
+Sugiero analisis de sangre completo con t4 y orina",2023-06-17T16:18:07.000Z,"Consulta general","Sin tratamiento",38.1,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-06-17T16:18:07.000Z,2023-06-17T16:18:07.000Z,167,1,1732
+288,2023-06-19T16:59:17.000Z,16:59:17,"Sin anamnesis",2023-06-19T16:59:17.000Z,EXAMEN,"Analisis de Laboratorio agregamos T4",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-06-19T16:59:17.000Z,2023-06-19T16:59:17.000Z,167,1,1732
+289,2023-06-22T21:56:23.000Z,21:56:23,"Sin anamnesis",2023-06-22T21:56:23.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-06-22T21:56:23.000Z,2023-06-22T21:56:23.000Z,167,1,1732
+290,2023-06-20T12:00:00.000Z,12:00:00,"comienza trihepat y enzimax
+pasamos a balanceado n&d libre de granos
+en un mes repetir Analisis con sdma",2023-06-20T12:00:00.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-06-20T12:00:00.000Z,2023-06-20T12:00:00.000Z,167,1,1732
+291,2023-09-13T15:02:49.000Z,15:02:49,"Mc: aumento de peso y lagrimeo bilateral.
+Se ajusta cantidades alimento:
+racion 120 gramos por dia y alimentacion natural 225 gramos por dia. 
+Se evidencia obstruccion de canal lagrimal, se indica tobra oftal d por 7 dias.",2023-09-13T15:02:49.000Z,"Consulta general","Sin tratamiento",0,22,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-09-13T15:02:49.000Z,2023-09-13T15:02:49.000Z,167,1,1732
+292,2024-01-22T21:47:00.000Z,21:47:00,"SE PRESENTA PORQUE HACE 2 DIAS QUE NO QUIERE COMER, TOMA AGUA S/P
+HUBO UN VOMITO DE SALIVA Y MOVILIZO CON UN POCO DE SANGRE,
+LA NOTA DEAMBULANDO MAS DE LO NORMAL
+SE CONSTATA DOLOR ABDOMINAL DIFUSO LEVE
+SE LE REALIZA ECO Y SE OBSERVAN GASES Y CONTENIDO INTESTINAL, HAY TRANSITO
+SE LE ADMINISTRA CERENIA Y SE DESPARASITA YA  QUE HACE 1 AÑO QUE NO SE HACE
+SE LE ENVIA DIETA CON POLLO PARA VER SI COMIENZA A COMER",2024-01-22T21:47:00.000Z,"Consulta general","Sin tratamiento",38.2,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-01-22T21:47:00.000Z,2024-01-22T21:47:00.000Z,134,1,1450
+293,2023-10-21T19:28:07.000Z,19:28:07,"chem de control
+cito mama inguinal derecha",2023-10-21T19:28:07.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-10-21T19:28:07.000Z,2023-10-21T19:28:07.000Z,167,1,1732
+294,2023-10-22T00:04:09.000Z,00:04:09,"Sin anamnesis",2023-10-22T00:04:09.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-10-22T00:04:09.000Z,2023-10-22T00:04:09.000Z,167,1,1732
+295,2023-11-13T19:29:22.000Z,19:29:22,"Sin anamnesis",2023-11-13T19:29:22.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-11-13T19:29:22.000Z,2023-11-13T19:29:22.000Z,167,1,1732
+296,2024-03-23T21:04:21.000Z,21:04:21,"consulta nuevamente por la rinitis que tiene, se conversa nuevamente con la madre , que mientras la infección que presenta en la boca, no va a cesar la infección en los senos nasales ni en los cornetes.
+estuvo tomando neodimetrogin por unos 20 dias y controló el problema, al suspenderlo comenzó nuevamente
+se le cambia el atb a lincomicina cada 12 hs por15 dias y controlamos.
+a su vez continúa con probióticos y prebióticos",2024-03-23T21:04:21.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-03-23T21:04:21.000Z,2024-03-23T21:04:21.000Z,134,1,1450
+297,2024-06-10T17:46:35.000Z,17:46:35,"Sin anamnesis",2024-06-10T17:46:35.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-06-10T17:46:35.000Z,2024-06-10T17:46:35.000Z,167,1,1732
+298,2024-06-10T18:04:25.000Z,18:04:25,"Se indica repetir analsiis de orina en 3 meses ademas adjuntar sdma. Se sugiere dieta natural para proteccion renal.",2024-06-10T18:04:25.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-06-10T18:04:25.000Z,2024-06-10T18:04:25.000Z,167,1,1732
+299,2024-05-02T21:06:47.000Z,21:06:47,"presenta mucha cantidad de mocos que le dificulata la respiración, se le indica hypersol cada 12 hs pero no puede hacerlo, ya que no se deja
+se le envía lincomicina nuevamente cada 12 hs por 10 dias 1/4 cp 
+pulmones s/p y temp 38.4
+de ánimo esta bien y esta alimentadonse sin problemas",2024-05-02T21:06:47.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-05-02T21:06:47.000Z,2024-05-02T21:06:47.000Z,134,1,1450
+300,2021-09-11T20:43:29.000Z,20:43:29,"Sin anamnesis",2021-09-11T20:43:29.000Z,"VACUNA, DESPARASITACION","Rabia, BRAVECTO",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-09-11T20:43:29.000Z,2021-09-11T20:43:29.000Z,169,1,1732
+301,2024-05-10T20:04:33.000Z,20:04:33,"Hace 3 dias que no se alimenta por sus propios medios. 
+Mucha secrecion nasal. 
+Se extrae sangre para control, evidenciandose una leucositosis y 
+
+Tto: stomorgyl por 10 dias y dexa inyectable. Control el lunes.",2024-05-10T20:04:33.000Z,"Consulta general","Sin tratamiento",38.5,2.3,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-05-10T20:04:33.000Z,2024-05-10T20:04:33.000Z,134,1,1450
+302,2021-12-14T17:25:37.000Z,17:25:37,"Sin anamnesis",2021-12-14T17:25:37.000Z,DESPARASITACION,BRAVECTO,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-12-14T17:25:37.000Z,2021-12-14T17:25:37.000Z,169,1,1732
+303,2021-12-18T20:01:28.000Z,20:01:28,"No se evidencia dolor abdimnal.
+Reflejo tusigeno alto y bajo positivo.
+Auscultacion pulmonar sp.
+
+Tto: dipirona y clamoxyl inyectable, clavaseptin 500mg 3/4 cada 12 horas por 10 dias, novemina 500mg 1 comp cada 8 horas por 3 dias",2021-12-18T20:01:28.000Z,"Consulta general","Sin tratamiento",39.4,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-12-18T20:01:28.000Z,2021-12-18T20:01:28.000Z,169,1,1732
+304,2021-12-28T17:57:31.000Z,17:57:31,"Sin anamnesis",2021-12-28T17:57:31.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-12-28T17:57:31.000Z,2021-12-28T17:57:31.000Z,169,1,1732
+305,2018-05-30T16:55:02.000Z,16:55:02,"INCONTINENCIA URINARIA
+EXAMEN 
+dolor abdominal resto de los parametros no se encuentra nada a destacar
+tratamiento
+cerenia 
+previcox
+amoxicilina clavulanico",2018-05-30T16:55:02.000Z,EXAMEN,"Analisis de Laboratorio FUNCIONAL RENAL
+ORINA",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-30T16:55:02.000Z,2018-05-30T16:55:02.000Z,173,1,1537
+306,2019-02-13T22:31:17.000Z,22:31:17,"Sin anamnesis",2019-02-13T22:31:17.000Z,EXAMEN,"Analisis de Laboratorio ORINA (TIRA REACTIVA)
+GLUCOSA NEG
+BILIRRUB NEG
+CUERPOS CETO NEG
+DENSIDAD 1010
+SANGRE NEG
+PH 6.5
+PROTEINAS 100mg/dl
+UROBIL  NEG
+NITRATOS  NEG
+LEUOCITOS 2+",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-02-13T22:31:17.000Z,2019-02-13T22:31:17.000Z,173,1,1537
+307,2018-05-29T21:50:43.000Z,21:50:43,"Sin anamnesis",2018-05-29T21:50:43.000Z,DESPARASITACION,GRANTELM,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-29T21:50:43.000Z,2018-05-29T21:50:43.000Z,177,1,1541
+308,2018-05-29T20:33:57.000Z,20:33:57,"FALTA QUE LE MANDO ADRI",2018-05-29T20:33:57.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-29T20:33:57.000Z,2018-05-29T20:33:57.000Z,179,1,1544
+309,2018-05-29T20:12:48.000Z,20:12:48,"VOMITOS Y DIARREA DESDE EL SABADO, LO VE UN COLEGA Y LE ADM BUSCAPINA
+SE LE ADM ONDANSETRON Y GELSUR M 
+SE LE ENVIA A DOMICILIO PILERAN (20GOTAS) Y SULFAGEL (8HS) Y DIETA (I/D HUMEDO)
+MAÑANA VUELVEN A CONTROL",2018-05-29T20:12:48.000Z,"Consulta general","Sin tratamiento",38.4,13.9,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-29T20:12:48.000Z,2018-05-29T20:12:48.000Z,181,1,1547
+310,2024-05-10T20:29:15.000Z,20:29:15,"Sin anamnesis",2024-05-10T20:29:15.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-05-10T20:29:15.000Z,2024-05-10T20:29:15.000Z,134,1,1450
+311,2019-11-02T21:40:44.000Z,21:40:44,"Sin anamnesis",2019-11-02T21:40:44.000Z,DESPARASITACION,"NEXGARD SPECTRA",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2019-11-02T21:40:44.000Z,2019-11-02T21:40:44.000Z,136,1,1450
+312,2022-05-06T21:50:26.000Z,21:50:26,"Presenta irritación peri orbital. Se rasca seguido 
+Se le administra dexa",2022-05-06T21:50:26.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-05-06T21:50:26.000Z,2022-05-06T21:50:26.000Z,136,1,1450
+313,2023-01-02T17:38:50.000Z,17:38:50,"Sin anamnesis",2023-01-02T17:38:50.000Z,DESPARASITACION,"NEXGARD SPECTRA",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-01-02T17:38:50.000Z,2023-01-02T17:38:50.000Z,136,1,1450
+314,2023-02-25T20:21:41.000Z,20:21:41,"Sin anamnesis",2023-02-25T20:21:41.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-02-25T20:21:41.000Z,2023-02-25T20:21:41.000Z,136,1,1450
+315,2023-03-31T03:43:39.000Z,03:43:39,"consulta de urgencia porque comió chocolate
+presenta nauseas, tremores, incoordinacion, midriasis. Dueña dio un hepvet
+tto fluidoterapia ringer  cerenia hepagen prothemai dexa dipirona midazolam",2023-03-31T03:43:39.000Z,"Consulta general","Sin tratamiento",0,39.4,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-03-31T03:43:39.000Z,2023-03-31T03:43:39.000Z,136,1,1450
+316,2018-05-30T21:07:40.000Z,21:07:40,"NO COMIO. CORTO VOMITOS Y NO HIZO DIARREA EN LA TARDE
+CONTINUA CON SULFAGEL (C/8HS) Y SE LE REPITE ONDANSETRON",2018-05-30T21:07:40.000Z,"Consulta general","Sin tratamiento",38.2,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-30T21:07:40.000Z,2018-05-30T21:07:40.000Z,181,1,1547
+317,2018-05-30T17:11:45.000Z,17:11:45,"DECAIMIENTO , DOLOR ABDOMINAL, ANOREXIA
+T  37,4
+DOLOR ABDOMINAL IMPORTANTE 
+MATERIA FECAL BLANDA PEGADA EN LA COLA
+TRATAMIENTO   
+FLUIDOTERAPIA COMPLEMENTADA CON K
+CERENIA
+BUSCAPINA",2018-05-30T17:11:45.000Z,EXAMEN,"Analisis de Laboratorio PERFIL GERIATRICO LACLIVET",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-30T17:11:45.000Z,2018-05-30T17:11:45.000Z,185,1,1552
+318,2018-05-31T18:08:32.000Z,18:08:32,"Buen color de mucosas 
+Continua el dolor abdominal 
+Respiración cortada sonido torácico disminuido",2018-05-31T18:08:32.000Z,"Consulta general","Sin tratamiento",37.4,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-31T18:08:32.000Z,2018-05-31T18:08:32.000Z,185,1,1552
+319,2018-05-31T21:17:37.000Z,21:17:37,"SE LE REALIZA ECO Y SE LE SACA RX DE ABDOMEN Y TORAX
+SE OBSERVA RIÑON IZQ POLIQUISTICO Y UNA GRAN MASA A NIVEL ABDOMINAL CONTINUO A DIAFRAGMA. SE PUNCIONA PARA HACER CITOLOGIA",2018-05-31T21:17:37.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-05-31T21:17:37.000Z,2018-05-31T21:17:37.000Z,185,1,1552
+320,2023-03-30T14:16:23.000Z,14:16:23,"Mc: diarrea explosiva desde hace 3 días. 
+Molestia general en abdomen. 
+
+Tto: cerenia, neodimetrogin, dieta.",2023-03-30T14:16:23.000Z,"Consulta general","Sin tratamiento",38.5,9.6,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-03-30T14:16:23.000Z,2023-03-30T14:16:23.000Z,187,1,1552
+321,2023-11-13T23:26:31.000Z,23:26:31,"Mc: decaimiento desde ayer, hoy no quiso comer. 
+Vomitos biliosos de forma frecuente y en cualquier momento del dia, sin alimento. 
+Ademas estornudos desde hace unos dias. 
+Reflejo tusigeno positivo. 
+Auscultacion pulomar y cardiaca sp. 
+Abdomen distendido, con gas. Ademas molestia en hipocondrios, sobretodo el izquierdo.
+Se extrae sangre. 
+Se indica ecografia abodminal para ver bazo principalmente. 
+
+Tto: cerenia, hepatone, dipirona y ranitidina.",2023-11-13T23:26:31.000Z,"Consulta general","Sin tratamiento",39.2,9.8,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-11-13T23:26:31.000Z,2023-11-13T23:26:31.000Z,187,1,1552
+322,2023-11-14T18:14:34.000Z,18:14:34,"Viene a control, tutora lo ve un poquito mas animado, comio un poco. 
+No presenta jadeo como ayer, tampoco se palpa gran molestia en hipocondrios, sino mas bien en abdomen medio. 
+Se indica ecografia abdominal
+
+Tto: meloxi, ranitidina, hematon inyectables. Se indico mañana comenzar con hemolitan y hepvet liquido.",2023-11-14T18:14:34.000Z,"Consulta general","Sin tratamiento",38.5,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-11-14T18:14:34.000Z,2023-11-14T18:14:34.000Z,187,1,1552
+323,2023-11-14T18:34:37.000Z,18:34:37,"Sin anamnesis",2023-11-14T18:34:37.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-11-14T18:34:37.000Z,2023-11-14T18:34:37.000Z,187,1,1552
+324,2023-11-15T18:33:45.000Z,18:33:45,"esta un poco mejor pero no quiere comer
+se le hace frotis de sangre
+dolor abdominal
+maropitan y dipirona",2023-11-15T18:33:45.000Z,"Consulta general","Sin tratamiento",38.4,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-11-15T18:33:45.000Z,2023-11-15T18:33:45.000Z,187,1,1552
+325,2023-11-16T20:03:53.000Z,20:03:53,"Viene a control, aun sigue sin comer. Lo ven algo mas activo. 
+Se realiza hemograma y se evidencia una disminucion del hto a comparacion del analisis del 13/11. Se realiza un frotis de sangre, no se evidencian hemoparasitos pero si gran cantidad de leucocitos, eritrocitos acumulados y amorfos. Ademas se le realizo test rapido de idexx de hemoparasitos los cuales arrojaron resultados negativos. 
+
+Tto: fluidoterapia con cateter, hematon, metabolace, hepagen, meloxi, 2.5 ml de doxiciclina.",2023-11-16T20:03:53.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-11-16T20:03:53.000Z,2023-11-16T20:03:53.000Z,187,1,1552
+326,2023-11-16T20:08:00.000Z,20:08:00,"Sin anamnesis",2023-11-16T20:08:00.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-11-16T20:08:00.000Z,2023-11-16T20:08:00.000Z,187,1,1552
+327,2023-11-17T21:52:56.000Z,21:52:56,"Lo ven un poco mejor, se repite tratamiento. Se indica volver mañana, ademas darle doxi vía oral para el domingo.",2023-11-17T21:52:56.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-11-17T21:52:56.000Z,2023-11-17T21:52:56.000Z,187,1,1552
+328,2023-10-06T16:03:07.000Z,16:03:07,"Sin anamnesis",2023-10-06T16:03:07.000Z,DESPARASITACION,"NEXGARD SPECTRA",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-10-06T16:03:07.000Z,2023-10-06T16:03:07.000Z,136,1,1450
+329,2023-11-18T20:28:36.000Z,20:28:36,"control, comió de la mano de la dueña
+se repite medicación
+se observa jadeo y algunos tremores en canil",2023-11-18T20:28:36.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-11-18T20:28:36.000Z,2023-11-18T20:28:36.000Z,187,1,1552
+330,2024-08-05T17:30:43.000Z,17:30:43,"MC: Dolor abdopminal
+Dolor en columba lumbosacra
+Colotrin pasta, previcox
+Rx",2024-08-05T17:30:43.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-08-05T17:30:43.000Z,2024-08-05T17:30:43.000Z,136,1,1450
+331,2024-08-05T12:00:00.000Z,12:00:00,"MC: Dolor abdominal
+Propietaria relata que al levantarla llora y que cuando se le toca el abdomen llora
+Dolor abdominal leve a la palpación. Dolor en columna lumbo sacra.
+Disminucion de la luz intervertebral en L3-L4, L4-L5 y L5-L6.
+Se indican 6 días de Previcox y colotrin y manejar el uso de Pregaba",2024-08-05T12:00:00.000Z,EXAMEN,"Radiografia 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2024-08-05T12:00:00.000Z,2024-08-05T12:00:00.000Z,136,1,1450
+332,2018-06-01T16:45:15.000Z,16:45:15,"Aumento de la tos
+A la auscultación contenido líquido, estertores 
+Esta con cardial 1/2 cada 12hrs
+Se le manda complemento de furosemide 1/4 cada 12",2018-06-01T16:45:15.000Z,"Consulta general","Sin tratamiento",38,4,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2018-06-01T16:45:15.000Z,2018-06-01T16:45:15.000Z,145,1,1279
+333,2020-04-22T19:38:25.000Z,19:38:25,"Sin anamnesis",2020-04-22T19:38:25.000Z,DESPARASITACION,"NEXGARD SPECTRA",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-04-22T19:38:25.000Z,2020-04-22T19:38:25.000Z,1,1,1279
+334,2020-09-18T20:28:25.000Z,20:28:25,"No come con tantas ganas como antes, a veces como pasto. No se evidencia alguna alteracion al EOG.
+Se administro vacuna igual.",2020-09-18T20:28:25.000Z,VACUNA,SEXTUPLE,39.2,40,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-09-18T20:28:25.000Z,2020-09-18T20:28:25.000Z,1,1,1279
+335,2023-11-27T12:00:00.000Z,12:00:00,"Continua decaido y con anorexia
+Melena y vómitos 
+Mucosas secas, leve enoftalmo
+Se realiza chem donde se constata insuficiencia renal
+Comienza ringer, hepatone, cerenia, azodyl. Ranitidina comprimido
+Cubos de caldito",2023-11-27T12:00:00.000Z,"Consulta general","Sin tratamiento",36.7,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-11-27T12:00:00.000Z,2023-11-27T12:00:00.000Z,187,1,1552
+336,2020-11-10T21:33:40.000Z,21:33:40,"Se le administra buscapina 
+Presenta dolor abdominal",2020-11-10T21:33:40.000Z,"Consulta general","Sin tratamiento",38.5,40,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2020-11-10T21:33:40.000Z,2020-11-10T21:33:40.000Z,1,1,1279
+337,2023-11-27T12:00:00.000Z,12:00:00,"Sin anamnesis",2023-11-27T12:00:00.000Z,EXAMEN,"Analisis de Laboratorio 0",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-11-27T12:00:00.000Z,2023-11-27T12:00:00.000Z,187,1,1552
+338,2021-09-16T16:28:14.000Z,16:28:14,"Sin anamnesis",2021-09-16T16:28:14.000Z,VACUNA,SEXTUPLE,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2021-09-16T16:28:14.000Z,2021-09-16T16:28:14.000Z,1,1,1279
+339,2023-12-12T16:11:27.000Z,16:11:27,"concurre muy decaido
+vómitos, tos y disnea
+se repite medicacion iv",2023-12-12T16:11:27.000Z,"Consulta general","Sin tratamiento",0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2023-12-12T16:11:27.000Z,2023-12-12T16:11:27.000Z,187,1,1552
+340,2022-10-01T20:18:54.000Z,20:18:54,"Sin anamnesis",2022-10-01T20:18:54.000Z,VACUNA,Rabia,0,0,"Sin especificar","Sin especificar","Sin especificar",FALSE,FALSE,2022-10-01T20:18:54.000Z,2022-10-01T20:18:54.000Z,1,1,1279
+341,2018-05-30T21:15:48.000Z,21:15:48,"FRACTURA DE TIBIA Y PERONE, SE LE REALIZA FIJACION EXTERNA
+CLAVASEPTIN 250 POR 10 IDAS
+PREVICOX 227MG 8 DIAS",2018-05-30T21:15:48.000Z,
